@@ -12,8 +12,10 @@ A comprehensive JSON database that maps over 7,700 languages (ISO 639-3) to thei
 ## Data Structure
 
 - `master_final_indexed.json`: The primary index containing language names, BCP47 codes, and language family metadata.
-- `conf2/family_map.json`: A lookup table mapping ISO codes to family codes.
-- `conf2/family_names.json`: Human-readable names for the family codes used.
+- `conf/family_map.json`: A lookup table mapping ISO codes to family codes.
+- `conf/family_names.json`: Human-readable names for the family codes used.
+- `conf/iso_map.json`:
+- `conf/spoken_languages.json`:
 
 ## Usage
 
@@ -29,6 +31,7 @@ with open('master_final_indexed.json', 'r', encoding='utf-8') as f:
     karelian = languages.get('krl-KRL')
     print(karelian)
     
+```  
 ## License
 Copyright © 2026 Tuomas Lähteenmäki
 This project is licensed under the MIT License. You are free to use, modify, and distribute the data, provided that the original copyright notice is retained.    
