@@ -32,6 +32,11 @@ with open('master_final_indexed.json', 'r', encoding='utf-8') as f:
     print(karelian)
     
 ```  
+## Notice
+“This project aggregates and normalizes data from multiple open linguistic sources. See SOURCES.md for details.”
+
 ## License
 Copyright © 2026 Tuomas Lähteenmäki
 This project is licensed under the MIT License. You are free to use, modify, and distribute the data, provided that the original copyright notice is retained.    
+
+Licensed under the MIT License. See LICENSE for details.
