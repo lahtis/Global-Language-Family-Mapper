@@ -5,7 +5,7 @@ A comprehensive JSON database that maps over 7,700 languages (ISO 639-3) to thei
 ## Features
 
 * **7,782 Languages**: Extracted and indexed from global linguistic datasets.
-* **100% Classification Rate**: 0% Uncoded languages. Every entry is assigned to a logical family or a classified group (e.g., Artificial/Other).
+* **90% Classification Rate**: 0% Uncoded languages. Every entry is assigned to a logical family or a classified group (e.g., Artificial/Other).
 * **Enhanced Uralic Support**: Detailed mapping for Finno-Ugric languages, including Karelian (`krl-KRL`), Finnish, and Estonian.
 * **Global Geographic Accuracy**: Languages are grouped into major families such as Indo-European, Niger-Kordofanian, Austronesian, and more.
 
