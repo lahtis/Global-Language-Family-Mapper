@@ -11,11 +11,10 @@ A comprehensive JSON database that maps over 7,700 languages (ISO 639-3) to thei
 
 ## Data Structure
 
-- `master_final_indexed.json`: The primary index containing language names, BCP47 codes, and language family metadata.
+- `master_final_indexed.json`: BROKEN OR WRONG DATA.
 - `conf/family_map.json`: A lookup table mapping ISO codes to family codes.
 - `conf/family_names.json`: Human-readable names for the family codes used.
 - `conf/iso_map.json`:
-- `conf/spoken_languages.json`:
 
 ## Usage
 
