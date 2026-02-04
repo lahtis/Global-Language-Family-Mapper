@@ -12,20 +12,25 @@ A comprehensive JSON database that maps over 7,700 languages (ISO 639-3) to thei
 ## Data Structure
 
 - `master_final_indexed.json`: BROKEN OR WRONG DATA.
+- `GLFM_master_iso_only.json`: Master file for 7,700 languages for ISO format.
 - `conf/family_map.json`: A lookup table mapping ISO codes to family codes.
 - `conf/family_names.json`: Human-readable names for the family codes used.
-- `conf/iso_map.json`:
+- `conf/iso_map.json`: ISO stardard files.
 
 ## Usage
 
 The data is provided in standard JSON format, making it compatible with any programming language.
+run main program.
+```python
+python3 main.py
+```
 
 ### Python Example:
 ```python
 import json
 
 # Example: Fetching details for the Karelian language
-with open('master_final_indexed.json', 'r', encoding='utf-8') as f:
+with open('GLFM_master_iso_only.json', 'r', encoding='utf-8') as f:
     languages = json.load(f)
     karelian = languages.get('krl-KRL')
     print(karelian)
