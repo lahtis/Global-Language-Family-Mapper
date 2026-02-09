@@ -10,7 +10,8 @@ A comprehensive JSON database that maps over 7,700 languages (ISO 639-3) to thei
 * **Global Geographic Accuracy**: Languages are grouped into major families such as Indo-European, Niger-Kordofanian, Austronesian, and more.
 
 ## Data Structure
-
+- `wikidata`: is an open, linked database in this project, which is used as a uniform identifier layer (Q-ID) for languages, so that the connections between Glottologi, Wiktionary, ISO standards and CLDR data can all be combined and compared.
+- `wiktionary`: In this project, Wiktionary is an open, community-maintained language database, from which we obtain modular family codes, canonicalNames, and a complete “superfamily chain” for each language, which we use for comparison and as a second family tree in the hybrid model alongside Glottologi.
 - `master_final_indexed.json`: BROKEN OR WRONG DATA.
 - `GLFM_master_iso_only.json`: Master file for 7,700 languages for ISO format.
 - `conf/family_map.json`: A lookup table mapping ISO codes to family codes.
