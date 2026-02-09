@@ -1,0 +1,3338 @@
+{
+  "aav": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "afa": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "alg": {
+    "supermacro_code": "aql",
+    "supermacro_name": "Algic"
+  },
+  "alv": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "apa": {
+    "supermacro_code": "apa",
+    "supermacro_name": "Apachean"
+  },
+  "aqa": {
+    "supermacro_code": "aqa",
+    "supermacro_name": "Alacalufan"
+  },
+  "aql": {
+    "supermacro_code": "aql",
+    "supermacro_name": "Algic"
+  },
+  "art": {
+    "supermacro_code": "art",
+    "supermacro_name": "mesterséges"
+  },
+  "ath": {
+    "supermacro_code": "xnd",
+    "supermacro_name": "Na-Dene"
+  },
+  "auf": {
+    "supermacro_code": "auf",
+    "supermacro_name": "Arauan"
+  },
+  "awd": {
+    "supermacro_code": "awd",
+    "supermacro_name": "aravak"
+  },
+  "azc": {
+    "supermacro_code": "azc",
+    "supermacro_name": "Uto-Aztecan"
+  },
+  "bad": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "bai": {
+    "supermacro_code": "nic-grf",
+    "supermacro_name": "Grassfields"
+  },
+  "bat": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ber": {
+    "supermacro_code": "ber",
+    "supermacro_name": "berber"
+  },
+  "bnt": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "btk": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "cba": {
+    "supermacro_code": "qfa-mch",
+    "supermacro_name": "Macro-Chibchan"
+  },
+  "ccn": {
+    "supermacro_code": "ccn",
+    "supermacro_name": "észak-kaukázusi"
+  },
+  "ccs": {
+    "supermacro_code": "ccs",
+    "supermacro_name": "dél-kaukázusi"
+  },
+  "cdc": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "cdd": {
+    "supermacro_code": "cdd",
+    "supermacro_name": "Caddoan"
+  },
+  "cel": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "chi": {
+    "supermacro_code": "chi",
+    "supermacro_name": "Chimakuan"
+  },
+  "cmc": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "crp": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "csu": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "cus": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "day": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "del": {
+    "supermacro_code": "del",
+    "supermacro_name": "Lenape"
+  },
+  "dmn": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dra": {
+    "supermacro_code": "dra",
+    "supermacro_name": "dravida"
+  },
+  "egx": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "esx": {
+    "supermacro_code": "esx",
+    "supermacro_name": "eszkimó-aleut"
+  },
+  "euq": {
+    "supermacro_code": "euq",
+    "supermacro_name": "Vasconic"
+  },
+  "gem": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "gme": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "gmq": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "gmw": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "grk": {
+    "supermacro_code": "grk",
+    "supermacro_name": "hellenisztikus"
+  },
+  "him": {
+    "supermacro_code": "him",
+    "supermacro_name": "nyugat-pahari"
+  },
+  "hmn": {
+    "supermacro_code": "hmx",
+    "supermacro_name": "Hmong-Mien"
+  },
+  "hmx": {
+    "supermacro_code": "hmx",
+    "supermacro_name": "Hmong-Mien"
+  },
+  "hok": {
+    "supermacro_code": "hok",
+    "supermacro_name": "Hokan"
+  },
+  "hyx": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "iir": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ijo": {
+    "supermacro_code": "ijo",
+    "supermacro_name": "Ijoid"
+  },
+  "inc": {
+    "supermacro_code": "inc",
+    "supermacro_name": "indoárja"
+  },
+  "ine": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "xme": {
+    "supermacro_code": "ira-mpr",
+    "supermacro_name": "Medo-Parthian"
+  },
+  "xsc": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "iro": {
+    "supermacro_code": "iro",
+    "supermacro_name": "irokéz"
+  },
+  "itc": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "jpx": {
+    "supermacro_code": "jpx",
+    "supermacro_name": "japán"
+  },
+  "kar": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "kro": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "map": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "mkh": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mno": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "mun": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "myn": {
+    "supermacro_code": "myn",
+    "supermacro_name": "maja"
+  },
+  "ngf": {
+    "supermacro_code": "ngf",
+    "supermacro_name": "Trans-New Guinea"
+  },
+  "nic": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nub": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "omq": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omv": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "oto": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "paa": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "phi": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "pqe": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "pra": {
+    "supermacro_code": "inc",
+    "supermacro_name": "indoárja"
+  },
+  "qwe": {
+    "supermacro_code": "qwe",
+    "supermacro_name": "kecsua"
+  },
+  "roa": {
+    "supermacro_code": "roa",
+    "supermacro_name": "újlatin"
+  },
+  "sal": {
+    "supermacro_code": "sal",
+    "supermacro_name": "Salishan"
+  },
+  "sdv": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sem": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sgn": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "sio": {
+    "supermacro_code": "nai-sca",
+    "supermacro_name": "Siouan-Catawban"
+  },
+  "sit": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sla": {
+    "supermacro_code": "sla",
+    "supermacro_name": "szláv"
+  },
+  "smi": {
+    "supermacro_code": "smi",
+    "supermacro_name": "számi"
+  },
+  "son": {
+    "supermacro_code": "son",
+    "supermacro_name": "Songhay"
+  },
+  "sqj": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ssa": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "syd": {
+    "supermacro_code": "syd",
+    "supermacro_name": "szamojéd"
+  },
+  "tai": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "tbq": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "trk": {
+    "supermacro_code": "trk",
+    "supermacro_name": "török"
+  },
+  "tup": {
+    "supermacro_code": "tup",
+    "supermacro_name": "Tupian"
+  },
+  "tuw": {
+    "supermacro_code": "tuw",
+    "supermacro_name": "tunguz"
+  },
+  "urj": {
+    "supermacro_code": "urj",
+    "supermacro_name": "uráli"
+  },
+  "wak": {
+    "supermacro_code": "wak",
+    "supermacro_name": "Wakashan"
+  },
+  "wen": {
+    "supermacro_code": "wen",
+    "supermacro_name": "Sorbian"
+  },
+  "xgn": {
+    "supermacro_code": "xgn",
+    "supermacro_name": "mongol"
+  },
+  "xnd": {
+    "supermacro_code": "xnd",
+    "supermacro_name": "Na-Dene"
+  },
+  "ypk": {
+    "supermacro_code": "ypk",
+    "supermacro_name": "Yupik"
+  },
+  "zhx": {
+    "supermacro_code": "zhx",
+    "supermacro_name": "sinitikus"
+  },
+  "zle": {
+    "supermacro_code": "sla",
+    "supermacro_name": "szláv"
+  },
+  "zls": {
+    "supermacro_code": "sla",
+    "supermacro_name": "szláv"
+  },
+  "zlw": {
+    "supermacro_code": "sla",
+    "supermacro_name": "szláv"
+  },
+  "znd": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "aav-khs": {
+    "supermacro_code": "aav-khs",
+    "supermacro_name": "Khasian"
+  },
+  "aav-nic": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "aav-pkl": {
+    "supermacro_code": "aav-khs",
+    "supermacro_name": "Khasian"
+  },
+  "alg-abp": {
+    "supermacro_code": "aql",
+    "supermacro_name": "Algic"
+  },
+  "alg-ara": {
+    "supermacro_code": "aql",
+    "supermacro_name": "Algic"
+  },
+  "alg-eas": {
+    "supermacro_code": "aql",
+    "supermacro_name": "Algic"
+  },
+  "alg-sfk": {
+    "supermacro_code": "aql",
+    "supermacro_name": "Algic"
+  },
+  "alv-aah": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-ada": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-bag": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-bak": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-bam": {
+    "supermacro_code": "alv-bam",
+    "supermacro_name": "Bambukic"
+  },
+  "alv-bny": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-bua": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-bwj": {
+    "supermacro_code": "alv-bam",
+    "supermacro_name": "Bambukic"
+  },
+  "alv-cng": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-ctn": {
+    "supermacro_code": "alv-ctn",
+    "supermacro_name": "Central Tano"
+  },
+  "alv-dlt": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-dur": {
+    "supermacro_code": "alv-lni",
+    "supermacro_name": "Leko-Nimbari"
+  },
+  "alv-ede": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-edo": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-eeo": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-fli": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-fwo": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-gba": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-gbe": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-gbf": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-gbs": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-gbw": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-gda": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-gng": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-gtm": {
+    "supermacro_code": "alv-gtm",
+    "supermacro_name": "Ghana-Togo Mountain"
+  },
+  "alv-hei": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-ido": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-igb": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-jfe": {
+    "supermacro_code": "alv-jfe",
+    "supermacro_name": "Jola-Felupe"
+  },
+  "alv-jol": {
+    "supermacro_code": "alv-jol",
+    "supermacro_name": "Jola"
+  },
+  "alv-kim": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-kis": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-krb": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-ktg": {
+    "supermacro_code": "alv-gtm",
+    "supermacro_name": "Ghana-Togo Mountain"
+  },
+  "alv-kul": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-kwa": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-lag": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-lek": {
+    "supermacro_code": "alv-lek",
+    "supermacro_name": "Leko"
+  },
+  "alv-lim": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-lni": {
+    "supermacro_code": "alv-lni",
+    "supermacro_name": "Leko-Nimbari"
+  },
+  "alv-mbd": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-mbm": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-mel": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-mum": {
+    "supermacro_code": "alv-lni",
+    "supermacro_name": "Leko-Nimbari"
+  },
+  "alv-mye": {
+    "supermacro_code": "alv-lni",
+    "supermacro_name": "Leko-Nimbari"
+  },
+  "alv-nal": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-nce": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-ngb": {
+    "supermacro_code": "alv-ngb",
+    "supermacro_name": "Nupe-Gbagyi"
+  },
+  "alv-ntg": {
+    "supermacro_code": "alv-gtm",
+    "supermacro_name": "Ghana-Togo Mountain"
+  },
+  "alv-nup": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-nwd": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-nyn": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-pap": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-pph": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-ptn": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-sav": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-sma": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-snf": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-sng": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-snr": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-swd": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-tal": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-tdj": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-ten": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-the": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-von": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-wan": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-wjk": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-yek": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-yor": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "alv-yun": {
+    "supermacro_code": "alv-yun",
+    "supermacro_name": "Yungur"
+  },
+  "ath-nor": {
+    "supermacro_code": "ath-nor",
+    "supermacro_name": "North Athabaskan"
+  },
+  "ath-pco": {
+    "supermacro_code": "xnd",
+    "supermacro_name": "Na-Dene"
+  },
+  "aus-arn": {
+    "supermacro_code": "aus-arn",
+    "supermacro_name": "Arnhem"
+  },
+  "aus-bub": {
+    "supermacro_code": "aus-bub",
+    "supermacro_name": "Bunuban"
+  },
+  "aus-cww": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-dal": {
+    "supermacro_code": "aus-dal",
+    "supermacro_name": "Daly"
+  },
+  "aus-dyb": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-gar": {
+    "supermacro_code": "aus-gar",
+    "supermacro_name": "Garawan"
+  },
+  "aus-gun": {
+    "supermacro_code": "aus-gun",
+    "supermacro_name": "Gunwinyguan"
+  },
+  "aus-jar": {
+    "supermacro_code": "aus-jar",
+    "supermacro_name": "Jarrakan"
+  },
+  "aus-kar": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-mir": {
+    "supermacro_code": "aus-mir",
+    "supermacro_name": "Mirndi"
+  },
+  "aus-nga": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-nyu": {
+    "supermacro_code": "aus-nyu",
+    "supermacro_name": "Nyulnyulan"
+  },
+  "aus-pam": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-pmn": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-psw": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-rnd": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-tnk": {
+    "supermacro_code": "aus-tnk",
+    "supermacro_name": "Tangkic"
+  },
+  "aus-wdj": {
+    "supermacro_code": "aus-wdj",
+    "supermacro_name": "Iwaidjan"
+  },
+  "aus-wor": {
+    "supermacro_code": "aus-wor",
+    "supermacro_name": "Worrorran"
+  },
+  "aus-yid": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "aus-yng": {
+    "supermacro_code": "aus-yng",
+    "supermacro_name": "Yangmanic"
+  },
+  "aus-yol": {
+    "supermacro_code": "aus-yol",
+    "supermacro_name": "Yolngu"
+  },
+  "aus-yuk": {
+    "supermacro_code": "aus-pam",
+    "supermacro_name": "Pama-Nyungan"
+  },
+  "awd-nwk": {
+    "supermacro_code": "awd-nwk",
+    "supermacro_name": "Nawiki"
+  },
+  "awd-taa": {
+    "supermacro_code": "awd-taa",
+    "supermacro_name": "Ta-Arawakan"
+  },
+  "azc-cup": {
+    "supermacro_code": "azc",
+    "supermacro_name": "Uto-Aztecan"
+  },
+  "azc-nah": {
+    "supermacro_code": "azc-nah",
+    "supermacro_name": "Nahuan"
+  },
+  "azc-num": {
+    "supermacro_code": "azc",
+    "supermacro_name": "Uto-Aztecan"
+  },
+  "azc-tak": {
+    "supermacro_code": "azc",
+    "supermacro_name": "Uto-Aztecan"
+  },
+  "azc-trc": {
+    "supermacro_code": "azc-trc",
+    "supermacro_name": "Taracahitic"
+  },
+  "bad-cnt": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "bnt-baf": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bbo": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bdz": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bek": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bki": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bmo": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bne": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bnm": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-boa": {
+    "supermacro_code": "bnt-boa",
+    "supermacro_name": "Boan"
+  },
+  "bnt-bot": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bsa": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bsh": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bso": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bta": {
+    "supermacro_code": "bnt-bta",
+    "supermacro_name": "Bati-Angba"
+  },
+  "bnt-btb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bte": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-bun": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-chg": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-cht": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-clu": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-com": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-glb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-haj": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-kak": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-kav": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-kbi": {
+    "supermacro_code": "bnt-boa",
+    "supermacro_name": "Boan"
+  },
+  "bnt-kel": {
+    "supermacro_code": "bnt-kel",
+    "supermacro_name": "Kele"
+  },
+  "bnt-kil": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-kka": {
+    "supermacro_code": "bnt-kka",
+    "supermacro_name": "Kikuyu-Kamba"
+  },
+  "bnt-kmb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-kng": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-kpw": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ksb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-kts": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-lbn": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-leb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-lgb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-lok": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-lub": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-lun": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mak": {
+    "supermacro_code": "bnt-mak",
+    "supermacro_name": "Makua"
+  },
+  "bnt-mbb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mbe": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mbi": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mbo": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mbt": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mby": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mij": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mka": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mne": {
+    "supermacro_code": "bnt-mne",
+    "supermacro_name": "Manenguba"
+  },
+  "bnt-mnj": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mon": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mra": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-msl": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-mwi": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ncb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ndb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ngn": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ngu": {
+    "supermacro_code": "bnt-ngu",
+    "supermacro_name": "Nguni"
+  },
+  "bnt-nya": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-nyb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-nyg": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-nys": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-nze": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ova": {
+    "supermacro_code": "bnt-ova",
+    "supermacro_name": "Ovambo"
+  },
+  "bnt-par": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-pen": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-pob": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ruk": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-run": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-rur": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ruv": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-rvm": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-sab": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-saw": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-sbi": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-seu": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-shh": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-sho": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-sir": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-ske": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-sna": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-sts": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-swb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-swh": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-tek": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-tet": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-tkc": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-tkm": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-tmb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-tso": {
+    "supermacro_code": "bnt-tso",
+    "supermacro_name": "Tsogo"
+  },
+  "bnt-tsr": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-yak": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-yko": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "bnt-zbi": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "cau-abz": {
+    "supermacro_code": "cau-abz",
+    "supermacro_name": "Abkhaz-Abaza"
+  },
+  "cau-ava": {
+    "supermacro_code": "cau-ava",
+    "supermacro_name": "Avaro-Andian"
+  },
+  "cau-cir": {
+    "supermacro_code": "cau-cir",
+    "supermacro_name": "Circassian"
+  },
+  "cau-drg": {
+    "supermacro_code": "cau-drg",
+    "supermacro_name": "Dargwa"
+  },
+  "cau-lzg": {
+    "supermacro_code": "cau-lzg",
+    "supermacro_name": "Lezghian"
+  },
+  "cau-nkh": {
+    "supermacro_code": "cau-nkh",
+    "supermacro_name": "Nakh"
+  },
+  "cau-nec": {
+    "supermacro_code": "cau-nec",
+    "supermacro_name": "Northeast Caucasian"
+  },
+  "cau-nwc": {
+    "supermacro_code": "cau-nwc",
+    "supermacro_name": "Northwest Caucasian"
+  },
+  "cau-tsz": {
+    "supermacro_code": "cau-tsz",
+    "supermacro_name": "Tsezian"
+  },
+  "ccs-gzn": {
+    "supermacro_code": "ccs-gzn",
+    "supermacro_name": "Georgian-Zan"
+  },
+  "ccs-zan": {
+    "supermacro_code": "ccs-zan",
+    "supermacro_name": "Zan"
+  },
+  "cdc-cbm": {
+    "supermacro_code": "cdc-cbm",
+    "supermacro_name": "Central Chadic"
+  },
+  "cdc-est": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "cdc-mas": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "cdc-wst": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "cel-bry": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "cel-gae": {
+    "supermacro_code": "cel-gae",
+    "supermacro_name": "Goidelic"
+  },
+  "csu-bba": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-bbk": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-bgr": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-bkr": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-ecs": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-kab": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-lnd": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-maa": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-mle": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-mma": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-sar": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "csu-val": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "dmn-bbu": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-emn": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-jje": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-man": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mda": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mdc": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mde": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mdw": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mjo": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mmo": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mnk": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mnw": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mok": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mse": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-msw": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-mva": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-nbe": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-sam": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-smg": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-snb": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-sya": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-vak": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "dmn-wmn": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "esx-esk": {
+    "supermacro_code": "esx",
+    "supermacro_name": "eszkimó-aleut"
+  },
+  "esx-inu": {
+    "supermacro_code": "esx",
+    "supermacro_name": "eszkimó-aleut"
+  },
+  "fiu-fin": {
+    "supermacro_code": "urj",
+    "supermacro_name": "uráli"
+  },
+  "gmw-fri": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "hmx-mie": {
+    "supermacro_code": "hmx",
+    "supermacro_name": "Hmong-Mien"
+  },
+  "iir-nur": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "nur-nor": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "nur-sou": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "inc-bhi": {
+    "supermacro_code": "inc-psu",
+    "supermacro_name": "Sauraseni Prakrit"
+  },
+  "inc-dar": {
+    "supermacro_code": "inc-old",
+    "supermacro_name": "Old Indo-Aryan"
+  },
+  "inc-old": {
+    "supermacro_code": "inc-old",
+    "supermacro_name": "Old Indo-Aryan"
+  },
+  "inc-pah": {
+    "supermacro_code": "inc-pah",
+    "supermacro_name": "Pahari"
+  },
+  "inc-psu": {
+    "supermacro_code": "inc-psu",
+    "supermacro_name": "Sauraseni Prakrit"
+  },
+  "inc-rom": {
+    "supermacro_code": "inc-rom",
+    "supermacro_name": "cigány"
+  },
+  "ine-ana": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ine-bsl": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ine-toc": {
+    "supermacro_code": "ine-toc",
+    "supermacro_name": "Tocharian"
+  },
+  "ira-csp": {
+    "supermacro_code": "ira-mpr",
+    "supermacro_name": "Medo-Parthian"
+  },
+  "ira-cen": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-mny": {
+    "supermacro_code": "ira-mny",
+    "supermacro_name": "Munji-Yidgha"
+  },
+  "ira-msh": {
+    "supermacro_code": "ira-mpr",
+    "supermacro_name": "Medo-Parthian"
+  },
+  "ira-nei": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-nwi": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-orp": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-pat": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-sbc": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "xsc-skw": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "xsc-sak": {
+    "supermacro_code": "xsc-sak",
+    "supermacro_name": "Sakan"
+  },
+  "ira-mpr": {
+    "supermacro_code": "ira-mpr",
+    "supermacro_name": "Medo-Parthian"
+  },
+  "ira-kms": {
+    "supermacro_code": "ira-kms",
+    "supermacro_name": "Komisenian"
+  },
+  "ira-sgi": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-shy": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-sgc": {
+    "supermacro_code": "ira-sgc",
+    "supermacro_name": "Sogdic"
+  },
+  "ira-sei": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-swi": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-sym": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "xme-ttc": {
+    "supermacro_code": "ira-mpr",
+    "supermacro_name": "Medo-Parthian"
+  },
+  "ira-wes": {
+    "supermacro_code": "ine",
+    "supermacro_name": "indoeurópai"
+  },
+  "ira-zgr": {
+    "supermacro_code": "ira-zgr",
+    "supermacro_name": "Zaza-Gorani"
+  },
+  "jpx-ryu": {
+    "supermacro_code": "jpx",
+    "supermacro_name": "japán"
+  },
+  "khi-kal": {
+    "supermacro_code": "khi-kho",
+    "supermacro_name": "Khoe"
+  },
+  "khi-khk": {
+    "supermacro_code": "khi-kho",
+    "supermacro_name": "Khoe"
+  },
+  "khi-kkw": {
+    "supermacro_code": "khi-kkw",
+    "supermacro_name": "Khoe-Kwadi"
+  },
+  "khi-kho": {
+    "supermacro_code": "khi-kho",
+    "supermacro_name": "Khoe"
+  },
+  "khi-kxa": {
+    "supermacro_code": "khi-kxa",
+    "supermacro_name": "Kx'a"
+  },
+  "khi-tuu": {
+    "supermacro_code": "khi-tuu",
+    "supermacro_name": "Tuu"
+  },
+  "kro-aiz": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "kro-bet": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "kro-did": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "kro-ekr": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "kro-grb": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "kro-wee": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "kro-wkr": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "map-ata": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "mkh-asl": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-ban": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-kat": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-khm": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-kmr": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-mnc": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-mng": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-nbn": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-pal": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-pea": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-pkn": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "mkh-vie": {
+    "supermacro_code": "aav",
+    "supermacro_name": "ausztroázsiai"
+  },
+  "nai-cat": {
+    "supermacro_code": "nai-sca",
+    "supermacro_name": "Siouan-Catawban"
+  },
+  "nai-chu": {
+    "supermacro_code": "nai-chu",
+    "supermacro_name": "Chumashan"
+  },
+  "nai-ckn": {
+    "supermacro_code": "nai-ckn",
+    "supermacro_name": "Chinookan"
+  },
+  "nai-coo": {
+    "supermacro_code": "nai-coo",
+    "supermacro_name": "Coosan"
+  },
+  "nai-ker": {
+    "supermacro_code": "nai-ker",
+    "supermacro_name": "Keresan"
+  },
+  "nai-klp": {
+    "supermacro_code": "nai-klp",
+    "supermacro_name": "Kalapuyan"
+  },
+  "nai-kta": {
+    "supermacro_code": "nai-kta",
+    "supermacro_name": "Kiowa-Tanoan"
+  },
+  "nai-len": {
+    "supermacro_code": "nai-len",
+    "supermacro_name": "Lencan"
+  },
+  "nai-mdu": {
+    "supermacro_code": "nai-mdu",
+    "supermacro_name": "Maiduan"
+  },
+  "nai-miz": {
+    "supermacro_code": "nai-miz",
+    "supermacro_name": "Mixe-Zoquean"
+  },
+  "nai-min": {
+    "supermacro_code": "nai-min",
+    "supermacro_name": "Misumalpan"
+  },
+  "nai-mus": {
+    "supermacro_code": "nai-mus",
+    "supermacro_name": "Muskogean"
+  },
+  "nai-pak": {
+    "supermacro_code": "hok",
+    "supermacro_name": "Hokan"
+  },
+  "nai-pal": {
+    "supermacro_code": "nai-pal",
+    "supermacro_name": "Palaihnihan"
+  },
+  "nai-plp": {
+    "supermacro_code": "nai-plp",
+    "supermacro_name": "Plateau Penutian"
+  },
+  "nai-pom": {
+    "supermacro_code": "nai-pom",
+    "supermacro_name": "Pomoan"
+  },
+  "nai-sca": {
+    "supermacro_code": "nai-sca",
+    "supermacro_name": "Siouan-Catawban"
+  },
+  "nai-shp": {
+    "supermacro_code": "nai-plp",
+    "supermacro_name": "Plateau Penutian"
+  },
+  "nai-shs": {
+    "supermacro_code": "hok",
+    "supermacro_name": "Hokan"
+  },
+  "nai-tot": {
+    "supermacro_code": "nai-tot",
+    "supermacro_name": "Totozoquean"
+  },
+  "nai-ttn": {
+    "supermacro_code": "nai-ttn",
+    "supermacro_name": "Totonacan"
+  },
+  "nai-tqn": {
+    "supermacro_code": "nai-tqn",
+    "supermacro_name": "Tequistlatecan"
+  },
+  "nai-tsi": {
+    "supermacro_code": "nai-tsi",
+    "supermacro_name": "Tsimshianic"
+  },
+  "nai-utn": {
+    "supermacro_code": "nai-utn",
+    "supermacro_name": "Utian"
+  },
+  "nai-wtq": {
+    "supermacro_code": "nai-wtq",
+    "supermacro_name": "Wintuan"
+  },
+  "nai-xin": {
+    "supermacro_code": "nai-xin",
+    "supermacro_name": "Xincan"
+  },
+  "nai-yok": {
+    "supermacro_code": "nai-yok",
+    "supermacro_name": "Yokutsan"
+  },
+  "nai-you": {
+    "supermacro_code": "nai-you",
+    "supermacro_name": "Yok-Utian"
+  },
+  "nai-yuc": {
+    "supermacro_code": "nai-yuc",
+    "supermacro_name": "Yuman-Cochimí"
+  },
+  "ngf-fin": {
+    "supermacro_code": "ngf",
+    "supermacro_name": "Trans-New Guinea"
+  },
+  "ngf-mad": {
+    "supermacro_code": "ngf",
+    "supermacro_name": "Trans-New Guinea"
+  },
+  "ngf-okk": {
+    "supermacro_code": "ngf",
+    "supermacro_name": "Trans-New Guinea"
+  },
+  "ngf-sbh": {
+    "supermacro_code": "ngf",
+    "supermacro_name": "Trans-New Guinea"
+  },
+  "nic-alu": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-bas": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-bbe": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-bco": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-bcr": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-bdn": {
+    "supermacro_code": "nic-bdn",
+    "supermacro_name": "Northern Bantoid"
+  },
+  "nic-bds": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-beb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-ben": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-beo": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-bod": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-buk": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nic-bwa": {
+    "supermacro_code": "nic-bwa",
+    "supermacro_name": "Bwa"
+  },
+  "nic-cde": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-cri": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-dag": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nic-dak": {
+    "supermacro_code": "nic-bdn",
+    "supermacro_name": "Northern Bantoid"
+  },
+  "nic-dge": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-dgw": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-eko": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-eov": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nic-fru": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-gne": {
+    "supermacro_code": "nic-gne",
+    "supermacro_name": "Eastern Gurunsi"
+  },
+  "nic-gnn": {
+    "supermacro_code": "nic-gnn",
+    "supermacro_name": "Northern Gurunsi"
+  },
+  "nic-gnw": {
+    "supermacro_code": "nic-gnw",
+    "supermacro_name": "Western Gurunsi"
+  },
+  "nic-gns": {
+    "supermacro_code": "nic-gns",
+    "supermacro_name": "Gurunsi"
+  },
+  "nic-gre": {
+    "supermacro_code": "nic-grf",
+    "supermacro_name": "Grassfields"
+  },
+  "nic-grf": {
+    "supermacro_code": "nic-grf",
+    "supermacro_name": "Grassfields"
+  },
+  "nic-grm": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nic-grs": {
+    "supermacro_code": "nic-grf",
+    "supermacro_name": "Grassfields"
+  },
+  "nic-gur": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nic-ief": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-jer": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-jkn": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-jrn": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-jrw": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-kam": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-ktl": {
+    "supermacro_code": "nic-ktl",
+    "supermacro_name": "Katloid"
+  },
+  "nic-kau": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-kmk": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-kne": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-knj": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-knn": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-lcr": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-mam": {
+    "supermacro_code": "nic-mam",
+    "supermacro_name": "Mamfe"
+  },
+  "nic-mba": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-mbc": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-mbw": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-mmb": {
+    "supermacro_code": "nic-mmb",
+    "supermacro_name": "Mambiloid"
+  },
+  "nic-mom": {
+    "supermacro_code": "nic-grf",
+    "supermacro_name": "Grassfields"
+  },
+  "nic-mre": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nic-ngd": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-nge": {
+    "supermacro_code": "nic-grf",
+    "supermacro_name": "Grassfields"
+  },
+  "nic-ngk": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-nin": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-nka": {
+    "supermacro_code": "nic-grf",
+    "supermacro_name": "Grassfields"
+  },
+  "nic-nkb": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-nke": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-nkg": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-nkk": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-nkm": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-nkw": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-npd": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-nun": {
+    "supermacro_code": "nic-grf",
+    "supermacro_name": "Grassfields"
+  },
+  "nic-nwa": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-ogo": {
+    "supermacro_code": "nic-ogo",
+    "supermacro_name": "Ogoni"
+  },
+  "nic-ovo": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nic-pla": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-plc": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-pld": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-ple": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-pls": {
+    "supermacro_code": "nic-pls",
+    "supermacro_name": "South Plateau"
+  },
+  "nic-plt": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-ras": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-rnc": {
+    "supermacro_code": "nic-rng",
+    "supermacro_name": "Ring"
+  },
+  "nic-rng": {
+    "supermacro_code": "nic-rng",
+    "supermacro_name": "Ring"
+  },
+  "nic-rnn": {
+    "supermacro_code": "nic-rng",
+    "supermacro_name": "Ring"
+  },
+  "nic-rnw": {
+    "supermacro_code": "nic-rng",
+    "supermacro_name": "Ring"
+  },
+  "nic-ser": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-shi": {
+    "supermacro_code": "nic-shi",
+    "supermacro_name": "Shiroro"
+  },
+  "nic-sis": {
+    "supermacro_code": "nic-gnw",
+    "supermacro_name": "Western Gurunsi"
+  },
+  "nic-tar": {
+    "supermacro_code": "nic-pla",
+    "supermacro_name": "Platoid"
+  },
+  "nic-tiv": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-tvc": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-tvn": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-ubg": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-uce": {
+    "supermacro_code": "nic-ucr",
+    "supermacro_name": "Upper Cross River"
+  },
+  "nic-ucn": {
+    "supermacro_code": "nic-ucr",
+    "supermacro_name": "Upper Cross River"
+  },
+  "nic-ucr": {
+    "supermacro_code": "nic-ucr",
+    "supermacro_name": "Upper Cross River"
+  },
+  "nic-vco": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "nic-wov": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nic-ykb": {
+    "supermacro_code": "nic-ykb",
+    "supermacro_name": "Yukubenic"
+  },
+  "nic-ymb": {
+    "supermacro_code": "nic-bds",
+    "supermacro_name": "Southern Bantoid"
+  },
+  "nic-yon": {
+    "supermacro_code": "nic-gur",
+    "supermacro_name": "Gur"
+  },
+  "nub-hil": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "omq-cha": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omq-chi": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omq-cui": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omq-maz": {
+    "supermacro_code": "omq-maz",
+    "supermacro_name": "Mazatecan"
+  },
+  "omq-mix": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omq-mxt": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omq-otp": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omq-pop": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omq-tri": {
+    "supermacro_code": "omq-tri",
+    "supermacro_name": "Trique"
+  },
+  "omq-zap": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omq-zpc": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "omv-aro": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "omv-diz": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "omv-eom": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "omv-gon": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "omv-mao": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "omv-nom": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "omv-ome": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "oto-otm": {
+    "supermacro_code": "omq",
+    "supermacro_name": "Oto-Manguean"
+  },
+  "paa-arf": {
+    "supermacro_code": "paa-arf",
+    "supermacro_name": "Arafundi"
+  },
+  "paa-asa": {
+    "supermacro_code": "paa-asa",
+    "supermacro_name": "Arai-Samaia"
+  },
+  "paa-bng": {
+    "supermacro_code": "paa-bng",
+    "supermacro_name": "Baining"
+  },
+  "paa-brd": {
+    "supermacro_code": "paa-brd",
+    "supermacro_name": "Border"
+  },
+  "paa-egb": {
+    "supermacro_code": "paa-egb",
+    "supermacro_name": "East Geelvink Bay"
+  },
+  "paa-eng": {
+    "supermacro_code": "paa-eng",
+    "supermacro_name": "Engan"
+  },
+  "paa-iwm": {
+    "supermacro_code": "paa-iwm",
+    "supermacro_name": "Iwam"
+  },
+  "paa-kag": {
+    "supermacro_code": "ngf",
+    "supermacro_name": "Trans-New Guinea"
+  },
+  "paa-kiw": {
+    "supermacro_code": "paa-kiw",
+    "supermacro_name": "Kiwaian"
+  },
+  "paa-kut": {
+    "supermacro_code": "paa-pag",
+    "supermacro_name": "Papuan Gulf"
+  },
+  "paa-kwm": {
+    "supermacro_code": "paa-kwm",
+    "supermacro_name": "Kwomtari"
+  },
+  "paa-lkp": {
+    "supermacro_code": "paa-lkp",
+    "supermacro_name": "Lakes Plain"
+  },
+  "paa-lsp": {
+    "supermacro_code": "paa-lsp",
+    "supermacro_name": "Lower Sepik"
+  },
+  "paa-mai": {
+    "supermacro_code": "paa-mai",
+    "supermacro_name": "Mairasi"
+  },
+  "paa-msk": {
+    "supermacro_code": "paa-msk",
+    "supermacro_name": "Sko"
+  },
+  "paa-nbo": {
+    "supermacro_code": "paa-nbo",
+    "supermacro_name": "North Bougainville"
+  },
+  "paa-nim": {
+    "supermacro_code": "paa-nim",
+    "supermacro_name": "Nimboran"
+  },
+  "paa-pag": {
+    "supermacro_code": "paa-pag",
+    "supermacro_name": "Papuan Gulf"
+  },
+  "paa-pau": {
+    "supermacro_code": "paa-pau",
+    "supermacro_name": "Pauwasi"
+  },
+  "paa-ram": {
+    "supermacro_code": "paa-ram",
+    "supermacro_name": "Ramu"
+  },
+  "paa-sbo": {
+    "supermacro_code": "paa-sbo",
+    "supermacro_name": "South Bougainville"
+  },
+  "paa-sen": {
+    "supermacro_code": "paa-wpa",
+    "supermacro_name": "West Papuan"
+  },
+  "paa-spk": {
+    "supermacro_code": "paa-spk",
+    "supermacro_name": "Sepik"
+  },
+  "paa-tkw": {
+    "supermacro_code": "paa-tkw",
+    "supermacro_name": "Tor-Kwerba"
+  },
+  "paa-wpa": {
+    "supermacro_code": "paa-wpa",
+    "supermacro_name": "West Papuan"
+  },
+  "paa-yam": {
+    "supermacro_code": "paa-yam",
+    "supermacro_name": "Yam"
+  },
+  "paa-yua": {
+    "supermacro_code": "paa-yua",
+    "supermacro_name": "Yuat"
+  },
+  "phi-kal": {
+    "supermacro_code": "phi-kal",
+    "supermacro_name": "Kalamian"
+  },
+  "poz-aay": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-bnn": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-bop": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-bre": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-brw": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-btk": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-cet": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-clb": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-cln": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-cma": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-hce": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-kal": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-lgx": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-mcm": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-mic": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-mly": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-msa": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-mun": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-nws": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-occ": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-oce": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-ocw": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-pep": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-pnp": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-pol": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-san": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-sbj": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-slb": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-sls": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-ssw": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-sus": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-swa": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-tim": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-tot": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-vnc": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "poz-wot": {
+    "supermacro_code": "map",
+    "supermacro_name": "ausztronéz"
+  },
+  "qfa-adc": {
+    "supermacro_code": "qfa-adm",
+    "supermacro_name": "Great Andamanese"
+  },
+  "qfa-adm": {
+    "supermacro_code": "qfa-adm",
+    "supermacro_name": "Great Andamanese"
+  },
+  "qfa-adn": {
+    "supermacro_code": "qfa-adm",
+    "supermacro_name": "Great Andamanese"
+  },
+  "qfa-ads": {
+    "supermacro_code": "qfa-adm",
+    "supermacro_name": "Great Andamanese"
+  },
+  "qfa-buy": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "qfa-cka": {
+    "supermacro_code": "qfa-cka",
+    "supermacro_name": "Chukotko-Kamchatkan"
+  },
+  "qfa-dgn": {
+    "supermacro_code": "nic",
+    "supermacro_name": "niger-kongói"
+  },
+  "qfa-dny": {
+    "supermacro_code": "qfa-dny",
+    "supermacro_name": "Dene-Yeniseian"
+  },
+  "qfa-gel": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "qfa-hur": {
+    "supermacro_code": "qfa-hur",
+    "supermacro_name": "Hurro-Urartian"
+  },
+  "qfa-iso": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "qfa-kad": {
+    "supermacro_code": "qfa-kad",
+    "supermacro_name": "Kadu"
+  },
+  "qfa-kms": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "qfa-kor": {
+    "supermacro_code": "qfa-kor",
+    "supermacro_name": "Korean"
+  },
+  "qfa-kra": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "qfa-lic": {
+    "supermacro_code": "qfa-lic",
+    "supermacro_name": "Hlai"
+  },
+  "qfa-mal": {
+    "supermacro_code": "paa-asa",
+    "supermacro_name": "Arai-Samaia"
+  },
+  "qfa-mch": {
+    "supermacro_code": "qfa-mch",
+    "supermacro_name": "Macro-Chibchan"
+  },
+  "qfa-mix": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "qfa-not": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "qfa-onb": {
+    "supermacro_code": "qfa-onb",
+    "supermacro_name": "Ong-Be"
+  },
+  "qfa-ong": {
+    "supermacro_code": "qfa-ong",
+    "supermacro_name": "Ongan"
+  },
+  "qfa-sub": {
+    "supermacro_code": "qfa-sub",
+    "supermacro_name": "substrate"
+  },
+  "qfa-tak": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "qfa-tap": {
+    "supermacro_code": "qfa-tap",
+    "supermacro_name": "Timor-Alor-Pantar"
+  },
+  "qfa-tor": {
+    "supermacro_code": "qfa-tor",
+    "supermacro_name": "Torricelli"
+  },
+  "qfa-tyn": {
+    "supermacro_code": "qfa-tyn",
+    "supermacro_name": "Tyrsenian"
+  },
+  "qfa-yen": {
+    "supermacro_code": "qfa-yen",
+    "supermacro_name": "Yeniseian"
+  },
+  "qfa-yuk": {
+    "supermacro_code": "qfa-yuk",
+    "supermacro_name": "Yukaghir"
+  },
+  "roa-eas": {
+    "supermacro_code": "roa",
+    "supermacro_name": "újlatin"
+  },
+  "roa-ibe": {
+    "supermacro_code": "roa",
+    "supermacro_name": "újlatin"
+  },
+  "roa-itd": {
+    "supermacro_code": "roa",
+    "supermacro_name": "újlatin"
+  },
+  "roa-git": {
+    "supermacro_code": "roa",
+    "supermacro_name": "újlatin"
+  },
+  "roa-oil": {
+    "supermacro_code": "roa",
+    "supermacro_name": "újlatin"
+  },
+  "roa-rhe": {
+    "supermacro_code": "roa",
+    "supermacro_name": "újlatin"
+  },
+  "sai-ara": {
+    "supermacro_code": "sai-ara",
+    "supermacro_name": "Araucanian"
+  },
+  "sai-aym": {
+    "supermacro_code": "sai-aym",
+    "supermacro_name": "Aymaran"
+  },
+  "sai-bar": {
+    "supermacro_code": "sai-bar",
+    "supermacro_name": "Barbacoan"
+  },
+  "sai-bor": {
+    "supermacro_code": "sai-bor",
+    "supermacro_name": "Boran"
+  },
+  "sai-cah": {
+    "supermacro_code": "sai-cah",
+    "supermacro_name": "Cahuapanan"
+  },
+  "sai-car": {
+    "supermacro_code": "sai-car",
+    "supermacro_name": "Cariban"
+  },
+  "sai-chc": {
+    "supermacro_code": "sai-chc",
+    "supermacro_name": "Chocoan"
+  },
+  "sai-cho": {
+    "supermacro_code": "sai-cho",
+    "supermacro_name": "Chonan"
+  },
+  "sai-cpc": {
+    "supermacro_code": "sai-cpc",
+    "supermacro_name": "Chapacuran"
+  },
+  "sai-crn": {
+    "supermacro_code": "sai-crn",
+    "supermacro_name": "Charruan"
+  },
+  "sai-ctc": {
+    "supermacro_code": "sai-ctc",
+    "supermacro_name": "Catacaoan"
+  },
+  "sai-guc": {
+    "supermacro_code": "sai-guc",
+    "supermacro_name": "Guaicuruan"
+  },
+  "sai-guh": {
+    "supermacro_code": "sai-guh",
+    "supermacro_name": "Guahiban"
+  },
+  "sai-har": {
+    "supermacro_code": "sai-har",
+    "supermacro_name": "Harákmbut"
+  },
+  "sai-hkt": {
+    "supermacro_code": "sai-hkt",
+    "supermacro_name": "Harákmbut-Katukinan"
+  },
+  "sai-hrp": {
+    "supermacro_code": "sai-hrp",
+    "supermacro_name": "Huarpean"
+  },
+  "sai-jee": {
+    "supermacro_code": "sai-jee",
+    "supermacro_name": "Jê"
+  },
+  "sai-jir": {
+    "supermacro_code": "sai-jir",
+    "supermacro_name": "Jirajaran"
+  },
+  "sai-jiv": {
+    "supermacro_code": "sai-jiv",
+    "supermacro_name": "Jivaroan"
+  },
+  "sai-ktk": {
+    "supermacro_code": "sai-ktk",
+    "supermacro_name": "Katukinan"
+  },
+  "sai-mas": {
+    "supermacro_code": "sai-mas",
+    "supermacro_name": "Mascoian"
+  },
+  "sai-mgc": {
+    "supermacro_code": "sai-mgc",
+    "supermacro_name": "Mataco-Guaicuru"
+  },
+  "sai-mje": {
+    "supermacro_code": "sai-mje",
+    "supermacro_name": "Macro-Jê"
+  },
+  "sai-mtc": {
+    "supermacro_code": "sai-mgc",
+    "supermacro_name": "Mataco-Guaicuru"
+  },
+  "sai-mur": {
+    "supermacro_code": "sai-mur",
+    "supermacro_name": "Muran"
+  },
+  "sai-nad": {
+    "supermacro_code": "sai-nad",
+    "supermacro_name": "Nadahup"
+  },
+  "sai-nmk": {
+    "supermacro_code": "sai-nmk",
+    "supermacro_name": "Nambikwaran"
+  },
+  "sai-otm": {
+    "supermacro_code": "sai-otm",
+    "supermacro_name": "Otomacoan"
+  },
+  "sai-pan": {
+    "supermacro_code": "sai-pan",
+    "supermacro_name": "Panoan"
+  },
+  "sai-pat": {
+    "supermacro_code": "sai-pat",
+    "supermacro_name": "Pano-Tacanan"
+  },
+  "sai-tac": {
+    "supermacro_code": "sai-pat",
+    "supermacro_name": "Pano-Tacanan"
+  },
+  "sai-tuc": {
+    "supermacro_code": "sai-tuc",
+    "supermacro_name": "Tucanoan"
+  },
+  "sai-tyu": {
+    "supermacro_code": "sai-tyu",
+    "supermacro_name": "Ticuna-Yuri"
+  },
+  "sai-ucp": {
+    "supermacro_code": "sai-ucp",
+    "supermacro_name": "Uru-Chipaya"
+  },
+  "sai-wic": {
+    "supermacro_code": "sai-wic",
+    "supermacro_name": "Wichí"
+  },
+  "sai-wit": {
+    "supermacro_code": "sai-wit",
+    "supermacro_name": "Witotoan"
+  },
+  "sai-ynm": {
+    "supermacro_code": "sai-ynm",
+    "supermacro_name": "Yanomami"
+  },
+  "sai-zam": {
+    "supermacro_code": "sai-zam",
+    "supermacro_name": "Zamucoan"
+  },
+  "sai-zap": {
+    "supermacro_code": "sai-zap",
+    "supermacro_name": "Zaparoan"
+  },
+  "sdv-bri": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-daj": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-dnu": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-eje": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-kln": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-lma": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-lon": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-los": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-luo": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-nes": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-nie": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-nil": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-nis": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-niw": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-nma": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-nyi": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-tmn": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sdv-ttu": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "sem-ara": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-arb": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-are": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-arw": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-ase": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-can": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-cen": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-cna": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-eas": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-eth": {
+    "supermacro_code": "sem-eth",
+    "supermacro_name": "Ethiopian Semitic"
+  },
+  "sem-nna": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-nwe": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-osa": {
+    "supermacro_code": "sem-osa",
+    "supermacro_name": "Old South Arabian"
+  },
+  "sem-sar": {
+    "supermacro_code": "sem-sar",
+    "supermacro_name": "South Arabian"
+  },
+  "sem-sou": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sem-wes": {
+    "supermacro_code": "afa",
+    "supermacro_name": "afroázsiai"
+  },
+  "sgn-fsl": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "sgn-gsl": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "sgn-jsl": {
+    "supermacro_code": "qfa-not",
+    "supermacro_name": "not a family"
+  },
+  "sio-dhe": {
+    "supermacro_code": "nai-sca",
+    "supermacro_name": "Siouan-Catawban"
+  },
+  "sio-dkt": {
+    "supermacro_code": "nai-sca",
+    "supermacro_name": "Siouan-Catawban"
+  },
+  "sio-mor": {
+    "supermacro_code": "nai-sca",
+    "supermacro_name": "Siouan-Catawban"
+  },
+  "sio-msv": {
+    "supermacro_code": "nai-sca",
+    "supermacro_name": "Siouan-Catawban"
+  },
+  "sio-ohv": {
+    "supermacro_code": "nai-sca",
+    "supermacro_name": "Siouan-Catawban"
+  },
+  "sit-aao": {
+    "supermacro_code": "sit-aao",
+    "supermacro_name": "Ao"
+  },
+  "sit-alm": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-bdi": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-dhi": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-ebo": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-gma": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-gsi": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-hrs": {
+    "supermacro_code": "sit-hrs",
+    "supermacro_name": "Hrusish"
+  },
+  "sit-jnp": {
+    "supermacro_code": "sit-jnp",
+    "supermacro_name": "Jingphoic"
+  },
+  "sit-jpl": {
+    "supermacro_code": "sit-jpl",
+    "supermacro_name": "Kachin-Luic"
+  },
+  "sit-kch": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-kha": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-khb": {
+    "supermacro_code": "sit-khb",
+    "supermacro_name": "Kho-Bwa"
+  },
+  "sit-kic": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-kie": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-kin": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-kir": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-kiw": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-kon": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-kyk": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-lab": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-las": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-luu": {
+    "supermacro_code": "sit-luu",
+    "supermacro_name": "Luish"
+  },
+  "sit-mar": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-mdz": {
+    "supermacro_code": "sit-mdz",
+    "supermacro_name": "Midzu"
+  },
+  "sit-mnz": {
+    "supermacro_code": "sit-mnz",
+    "supermacro_name": "Mondzish"
+  },
+  "sit-mru": {
+    "supermacro_code": "sit-mru",
+    "supermacro_name": "Mruic"
+  },
+  "sit-nax": {
+    "supermacro_code": "sit-nax",
+    "supermacro_name": "Naic"
+  },
+  "sit-new": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-nng": {
+    "supermacro_code": "sit-nng",
+    "supermacro_name": "Nungish"
+  },
+  "sit-qia": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-rgy": {
+    "supermacro_code": "sit-rgy",
+    "supermacro_name": "Rgyalrongic"
+  },
+  "sit-tam": {
+    "supermacro_code": "sit-tam",
+    "supermacro_name": "Tamangic"
+  },
+  "sit-tan": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-tib": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-tja": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-tma": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-tng": {
+    "supermacro_code": "sit-tng",
+    "supermacro_name": "Tangkhulic"
+  },
+  "sit-tno": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-tsk": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-whm": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "sit-zem": {
+    "supermacro_code": "sit-zem",
+    "supermacro_name": "Zeme"
+  },
+  "ssa-fur": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "ssa-klk": {
+    "supermacro_code": "ssa-klk",
+    "supermacro_name": "Kuliak"
+  },
+  "ssa-kom": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "ssa-sah": {
+    "supermacro_code": "ssa",
+    "supermacro_name": "Nílus-szaharai"
+  },
+  "tai-wen": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "tai-tay": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "tai-sap": {
+    "supermacro_code": "tai-sap",
+    "supermacro_name": "Sapa-Southwestern Tai"
+  },
+  "tai-swe": {
+    "supermacro_code": "tai-sap",
+    "supermacro_name": "Sapa-Southwestern Tai"
+  },
+  "tai-cho": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "tai-cen": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "tai-nor": {
+    "supermacro_code": "qfa-tak",
+    "supermacro_name": "Kra-Dai"
+  },
+  "tbq-anp": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "tbq-bdg": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "tbq-bkj": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "tbq-brm": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "tbq-buq": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "tbq-kuk": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "tbq-lal": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "tbq-lob": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "tbq-lol": {
+    "supermacro_code": "sit",
+    "supermacro_name": "sino-tibeti"
+  },
+  "trk-kar": {
+    "supermacro_code": "trk-kar",
+    "supermacro_name": "Karluk"
+  },
+  "trk-kbu": {
+    "supermacro_code": "trk-kbu",
+    "supermacro_name": "Kipchak-Bulgar"
+  },
+  "trk-kcu": {
+    "supermacro_code": "trk-kcu",
+    "supermacro_name": "Kipchak-Cuman"
+  },
+  "trk-kip": {
+    "supermacro_code": "trk-kip",
+    "supermacro_name": "Kipchak"
+  },
+  "trk-kno": {
+    "supermacro_code": "trk-kno",
+    "supermacro_name": "Kipchak-Nogai"
+  },
+  "trk-ogr": {
+    "supermacro_code": "trk-ogr",
+    "supermacro_name": "Oghur"
+  },
+  "trk-ogz": {
+    "supermacro_code": "trk-ogz",
+    "supermacro_name": "Oghuz"
+  },
+  "trk-sib": {
+    "supermacro_code": "trk-sib",
+    "supermacro_name": "Siberian Turkic"
+  },
+  "tup-gua": {
+    "supermacro_code": "tup-gua",
+    "supermacro_name": "Tupi-Guarani"
+  },
+  "urj-mdv": {
+    "supermacro_code": "urj",
+    "supermacro_name": "uráli"
+  },
+  "urj-prm": {
+    "supermacro_code": "urj",
+    "supermacro_name": "uráli"
+  },
+  "urj-ugr": {
+    "supermacro_code": "urj",
+    "supermacro_name": "uráli"
+  },
+  "zhx-gba": {
+    "supermacro_code": "zhx-gba",
+    "supermacro_name": "Greater Bai"
+  },
+  "zhx-min": {
+    "supermacro_code": "zhx",
+    "supermacro_name": "sinitikus"
+  },
+  "zhx-min-hai": {
+    "supermacro_code": "zhx",
+    "supermacro_name": "sinitikus"
+  },
+  "zhx-min-shn": {
+    "supermacro_code": "zhx",
+    "supermacro_name": "sinitikus"
+  },
+  "zlw-lch": {
+    "supermacro_code": "zlw-lch",
+    "supermacro_name": "Lechitic"
+  }
+}

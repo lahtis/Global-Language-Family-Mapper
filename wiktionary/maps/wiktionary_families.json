@@ -1,0 +1,3793 @@
+{
+  "aav": {
+    "canonicalName": "ausztroázsiai",
+    "aliases": "{\"Austro-Asiatic\""
+  },
+  "afa": {
+    "canonicalName": "afroázsiai",
+    "aliases": "{\"Afroasiatic\""
+  },
+  "alg": {
+    "canonicalName": "Algonquian",
+    "family": "aql",
+    "wikidata_item": "Q33392"
+  },
+  "alv": {
+    "canonicalName": "Atlantic-Congo",
+    "family": "nic",
+    "wikidata_item": "Q771124"
+  },
+  "apa": {
+    "canonicalName": "Apachean",
+    "aliases": "{\"Southern Athabaskan\""
+  },
+  "aqa": {
+    "canonicalName": "Alacalufan",
+    "wikidata_item": "Q1288430"
+  },
+  "aql": {
+    "canonicalName": "Algic",
+    "aliases": "{\"Algonquian-Ritwan\""
+  },
+  "art": {
+    "canonicalName": "mesterséges",
+    "aliases": "{\"artificial\""
+  },
+  "ath": {
+    "canonicalName": "Athabaskan",
+    "family": "xnd",
+    "wikidata_item": "Q27475"
+  },
+  "auf": {
+    "canonicalName": "Arauan",
+    "aliases": "{\"Arahuan\""
+  },
+  "awd": {
+    "canonicalName": "aravak",
+    "aliases": "{\"Arawak\""
+  },
+  "azc": {
+    "canonicalName": "Uto-Aztecan",
+    "aliases": "{\"Uto-Aztekan\""
+  },
+  "bad": {
+    "canonicalName": "Banda",
+    "family": "nic-ubg",
+    "wikidata_item": "Q806234"
+  },
+  "bai": {
+    "canonicalName": "Bamileke",
+    "family": "nic-gre",
+    "wikidata_item": "Q806005"
+  },
+  "bat": {
+    "canonicalName": "balti",
+    "family": "ine-bsl",
+    "wikidata_item": "Q33136"
+  },
+  "ber": {
+    "canonicalName": "berber",
+    "aliases": "{\"Tamazight\""
+  },
+  "bnt": {
+    "canonicalName": "bantu",
+    "family": "nic-bds",
+    "wikidata_item": "Q33146"
+  },
+  "btk": {
+    "canonicalName": "Batak",
+    "family": "poz-nws",
+    "wikidata_item": "Q1998595"
+  },
+  "cba": {
+    "canonicalName": "csibcsa",
+    "family": "qfa-mch",
+    "wikidata_item": "Q520478"
+  },
+  "ccn": {
+    "canonicalName": "észak-kaukázusi",
+    "wikidata_item": "Q33732"
+  },
+  "ccs": {
+    "canonicalName": "dél-kaukázusi",
+    "aliases": "{\"South Caucasian\""
+  },
+  "cdc": {
+    "canonicalName": "csádi",
+    "family": "afa",
+    "wikidata_item": "Q33184"
+  },
+  "cdd": {
+    "canonicalName": "Caddoan",
+    "wikidata_item": "Q1025090"
+  },
+  "cel": {
+    "canonicalName": "kelta",
+    "family": "ine",
+    "wikidata_item": "Q25293"
+  },
+  "chi": {
+    "canonicalName": "Chimakuan",
+    "wikidata_item": "Q1073088"
+  },
+  "cmc": {
+    "canonicalName": "Chamic",
+    "family": "poz-mcm",
+    "wikidata_item": "Q2997506"
+  },
+  "crp": {
+    "canonicalName": "creole or pidgin",
+    "family": "qfa-not"
+  },
+  "csu": {
+    "canonicalName": "közép-szudáni",
+    "family": "ssa",
+    "wikidata_item": "Q190822"
+  },
+  "cus": {
+    "canonicalName": "kusita",
+    "family": "afa",
+    "wikidata_item": "Q33248"
+  },
+  "day": {
+    "canonicalName": "Land Dayak",
+    "family": "poz-bop",
+    "wikidata_item": "Q2760613"
+  },
+  "del": {
+    "canonicalName": "Lenape",
+    "aliases": "{\"Delaware\""
+  },
+  "dmn": {
+    "canonicalName": "Mande",
+    "family": "nic",
+    "wikidata_item": "Q33681"
+  },
+  "dra": {
+    "canonicalName": "dravida",
+    "wikidata_item": "Q33311"
+  },
+  "egx": {
+    "canonicalName": "egyiptomi",
+    "protoLanguage": "egy",
+    "family": "afa",
+    "wikidata_item": "Q50868"
+  },
+  "esx": {
+    "canonicalName": "eszkimó-aleut",
+    "wikidata_item": "Q25946"
+  },
+  "euq": {
+    "canonicalName": "Vasconic",
+    "wikidata_item": "Q4669240"
+  },
+  "gem": {
+    "canonicalName": "germán",
+    "family": "ine",
+    "wikidata_item": "Q21200"
+  },
+  "gme": {
+    "canonicalName": "keleti germán",
+    "family": "gem",
+    "wikidata_item": "Q108662"
+  },
+  "gmq": {
+    "canonicalName": "északi germán",
+    "family": "gem",
+    "wikidata_item": "Q106085"
+  },
+  "gmw": {
+    "canonicalName": "nyugati germán",
+    "family": "gem",
+    "wikidata_item": "Q26721"
+  },
+  "grk": {
+    "canonicalName": "hellenisztikus",
+    "aliases": "{\"Greek\""
+  },
+  "him": {
+    "canonicalName": "nyugat-pahari",
+    "aliases": "{\"Himachali\""
+  },
+  "hmn": {
+    "canonicalName": "hmong",
+    "family": "hmx",
+    "wikidata_item": "Q3307894"
+  },
+  "hmx": {
+    "canonicalName": "Hmong-Mien",
+    "aliases": "{\"Miao-Yao\""
+  },
+  "hok": {
+    "canonicalName": "Hokan",
+    "wikidata_item": "Q33406"
+  },
+  "hyx": {
+    "canonicalName": "örmény",
+    "family": "ine",
+    "wikidata_item": "Q8785"
+  },
+  "iir": {
+    "canonicalName": "indoiráni",
+    "family": "ine",
+    "wikidata_item": "Q33514"
+  },
+  "ijo": {
+    "canonicalName": "Ijoid",
+    "otherNames": "{\"Ijaw\""
+  },
+  "inc": {
+    "canonicalName": "indoárja",
+    "aliases": "{\"Indic\""
+  },
+  "ine": {
+    "canonicalName": "indoeurópai",
+    "aliases": "{\"Indo-Germanic\""
+  },
+  "ira": {
+    "canonicalName": "iráni",
+    "family": "iir",
+    "wikidata_item": "Q33527"
+  },
+  "xme": {
+    "canonicalName": "Median",
+    "family": "ira-mpr",
+    "protoLanguage": "xme-old"
+  },
+  "xsc": {
+    "canonicalName": "szkíta",
+    "family": "ira-nei"
+  },
+  "iro": {
+    "canonicalName": "irokéz",
+    "wikidata_item": "Q33623"
+  },
+  "itc": {
+    "canonicalName": "itáliai",
+    "family": "ine",
+    "wikidata_item": "Q131848"
+  },
+  "jpx": {
+    "canonicalName": "japán",
+    "aliases": "{\"Japanese\""
+  },
+  "kar": {
+    "canonicalName": "Karen",
+    "family": "sit",
+    "wikidata_item": "Q1364815"
+  },
+  "kro": {
+    "canonicalName": "Kru",
+    "family": "nic-vco",
+    "wikidata_item": "Q33535"
+  },
+  "map": {
+    "canonicalName": "ausztronéz",
+    "wikidata_item": "Q49228"
+  },
+  "mkh": {
+    "canonicalName": "ausztroázsiai",
+    "family": "aav",
+    "wikidata_item": "Q33199"
+  },
+  "mno": {
+    "canonicalName": "manobo",
+    "family": "phi",
+    "wikidata_item": "Q3217483"
+  },
+  "mun": {
+    "canonicalName": "munda",
+    "family": "aav",
+    "wikidata_item": "Q33892"
+  },
+  "myn": {
+    "canonicalName": "maja",
+    "wikidata_item": "Q33738"
+  },
+  "ngf": {
+    "canonicalName": "Trans-New Guinea",
+    "wikidata_item": "Q34018"
+  },
+  "nic": {
+    "canonicalName": "niger-kongói",
+    "aliases": "{\"Niger-Kordofanian\""
+  },
+  "nub": {
+    "canonicalName": "núbiai",
+    "family": "sdv-nes",
+    "wikidata_item": "Q1517194"
+  },
+  "omq": {
+    "canonicalName": "Oto-Manguean",
+    "wikidata_item": "Q33669"
+  },
+  "omv": {
+    "canonicalName": "Omotic",
+    "family": "afa",
+    "wikidata_item": "Q33860"
+  },
+  "oto": {
+    "canonicalName": "Otomian",
+    "family": "omq",
+    "wikidata_item": "Q1270220"
+  },
+  "paa": {
+    "canonicalName": "pápua",
+    "family": "qfa-not",
+    "wikidata_item": "Q236425"
+  },
+  "phi": {
+    "canonicalName": "Philippine",
+    "family": "poz-bop",
+    "wikidata_item": "Q947858"
+  },
+  "poz": {
+    "canonicalName": "maláj-polinéz",
+    "family": "map",
+    "wikidata_item": "Q143158"
+  },
+  "pqe": {
+    "canonicalName": "Eastern Malayo-Polynesian",
+    "family": "poz-cet",
+    "wikidata_item": "Q2269883"
+  },
+  "pra": {
+    "canonicalName": "prákrit",
+    "family": "inc",
+    "wikidata_item": "Q192170"
+  },
+  "qwe": {
+    "canonicalName": "kecsua",
+    "wikidata_item": "Q5218"
+  },
+  "roa": {
+    "canonicalName": "újlatin",
+    "aliases": "{\"Romanic\""
+  },
+  "sal": {
+    "canonicalName": "Salishan",
+    "wikidata_item": "Q33985"
+  },
+  "sdv": {
+    "canonicalName": "kelet-szudáni",
+    "family": "ssa",
+    "wikidata_item": "Q2036148"
+  },
+  "sem": {
+    "canonicalName": "sémi",
+    "family": "afa",
+    "wikidata_item": "Q34049"
+  },
+  "sgn": {
+    "canonicalName": "jel",
+    "family": "qfa-not",
+    "wikidata_item": "Q34228"
+  },
+  "sio": {
+    "canonicalName": "sziú",
+    "family": "nai-sca",
+    "wikidata_item": "Q34181"
+  },
+  "sit": {
+    "canonicalName": "sino-tibeti",
+    "wikidata_item": "Q45961"
+  },
+  "sla": {
+    "canonicalName": "szláv",
+    "aliases": "{\"Slavonic\""
+  },
+  "smi": {
+    "canonicalName": "számi",
+    "aliases": "{\"Saami\""
+  },
+  "son": {
+    "canonicalName": "Songhay",
+    "aliases": "{\"Songhai\""
+  },
+  "sqj": {
+    "canonicalName": "albán",
+    "family": "ine",
+    "wikidata_item": "Q8748"
+  },
+  "ssa": {
+    "canonicalName": "Nílus-szaharai",
+    "wikidata_item": "Q33705"
+  },
+  "syd": {
+    "canonicalName": "szamojéd",
+    "aliases": "{\"Samoyed\""
+  },
+  "tai": {
+    "canonicalName": "Tai",
+    "family": "qfa-tak",
+    "wikidata_item": "Q749720"
+  },
+  "tbq": {
+    "canonicalName": "tibeti-burmai",
+    "family": "sit",
+    "wikidata_item": "Q34064"
+  },
+  "trk": {
+    "canonicalName": "török",
+    "wikidata_item": "Q34090"
+  },
+  "tup": {
+    "canonicalName": "Tupian",
+    "aliases": "{\"Tupi\""
+  },
+  "tuw": {
+    "canonicalName": "tunguz",
+    "aliases": "{\"Manchu-Tungus\""
+  },
+  "urj": {
+    "canonicalName": "uráli",
+    "varieties": "{\"Finno-Ugric\""
+  },
+  "wak": {
+    "canonicalName": "Wakashan",
+    "wikidata_item": "Q60069"
+  },
+  "wen": {
+    "canonicalName": "Sorbian",
+    "aliases": "{\"Lusatian\""
+  },
+  "xgn": {
+    "canonicalName": "mongol",
+    "aliases": "{\"Mongolian\""
+  },
+  "xnd": {
+    "canonicalName": "Na-Dene",
+    "aliases": "{\"Na-Dené\""
+  },
+  "ypk": {
+    "canonicalName": "Yupik",
+    "aliases": "{\"Yup'ik\""
+  },
+  "zhx": {
+    "canonicalName": "sinitikus",
+    "aliases": "{\"Chinese\""
+  },
+  "zle": {
+    "canonicalName": "keleti szláv",
+    "protoLanguage": "orv",
+    "family": "sla",
+    "wikidata_item": "Q144713"
+  },
+  "zls": {
+    "canonicalName": "délszláv",
+    "family": "sla",
+    "wikidata_item": "Q146665"
+  },
+  "zlw": {
+    "canonicalName": "nyugati szláv",
+    "family": "sla",
+    "wikidata_item": "Q145852"
+  },
+  "znd": {
+    "canonicalName": "Zande",
+    "family": "nic-ubg",
+    "wikidata_item": "Q8066072"
+  },
+  "aav-khs": {
+    "canonicalName": "Khasian",
+    "aliases": "{\"Khasic\""
+  },
+  "aav-nic": {
+    "canonicalName": "Nicobarese",
+    "family": "aav",
+    "wikidata_item": "Q217380"
+  },
+  "aav-pkl": {
+    "canonicalName": "Pnar-Khasi-Lyngngam",
+    "family": "aav-khs"
+  },
+  "alg-abp": {
+    "canonicalName": "Abenaki-Penobscot",
+    "family": "alg-eas",
+    "wikidata_item": "Q197936"
+  },
+  "alg-ara": {
+    "canonicalName": "Arapahoan",
+    "family": "alg",
+    "wikidata_item": "Q2153686"
+  },
+  "alg-eas": {
+    "canonicalName": "Eastern Algonquian",
+    "family": "alg",
+    "wikidata_item": "Q2257525"
+  },
+  "alg-sfk": {
+    "canonicalName": "Sac-Fox-Kickapoo",
+    "family": "alg",
+    "wikidata_item": "Q1440172"
+  },
+  "alv-aah": {
+    "canonicalName": "Ayere-Ahan",
+    "family": "alv-von",
+    "wikidata_item": "Q750953"
+  },
+  "alv-ada": {
+    "canonicalName": "Adamawa",
+    "family": "alv-sav",
+    "wikidata_item": "Q32906"
+  },
+  "alv-bag": {
+    "canonicalName": "Baga",
+    "family": "alv-mel"
+  },
+  "alv-bak": {
+    "canonicalName": "Bak",
+    "family": "alv-sng",
+    "wikidata_item": "Q1708174"
+  },
+  "alv-bam": {
+    "canonicalName": "Bambukic",
+    "aliases": "{\"Yungur-Jen\""
+  },
+  "alv-bny": {
+    "canonicalName": "Banyum",
+    "family": "alv-nyn"
+  },
+  "alv-bua": {
+    "canonicalName": "Bua",
+    "family": "alv-mbd",
+    "wikidata_item": "Q4982094"
+  },
+  "alv-bwj": {
+    "canonicalName": "Bikwin-Jen",
+    "family": "alv-bam"
+  },
+  "alv-cng": {
+    "canonicalName": "Cangin",
+    "family": "alv-fwo",
+    "wikidata_item": "Q1033184"
+  },
+  "alv-ctn": {
+    "canonicalName": "Central Tano",
+    "aliases": "{\"Akan\""
+  },
+  "alv-dlt": {
+    "canonicalName": "Delta Edoid",
+    "family": "alv-edo"
+  },
+  "alv-dur": {
+    "canonicalName": "Duru",
+    "family": "alv-lni",
+    "wikidata_item": "Q5316788"
+  },
+  "alv-ede": {
+    "canonicalName": "Ede",
+    "family": "alv-yor",
+    "wikidata_item": "Q35368"
+  },
+  "alv-edo": {
+    "canonicalName": "Edoid",
+    "family": "alv-von",
+    "wikidata_item": "Q1287469"
+  },
+  "alv-eeo": {
+    "canonicalName": "Edo-Esan-Ora",
+    "family": "alv-nce"
+  },
+  "alv-fli": {
+    "canonicalName": "Fali",
+    "family": "alv",
+    "wikidata_item": "Q3450166"
+  },
+  "alv-fwo": {
+    "canonicalName": "Fula-Wolof",
+    "family": "alv-sng",
+    "wikidata_item": "Q12631267"
+  },
+  "alv-gba": {
+    "canonicalName": "Gbaya",
+    "family": "alv-sav",
+    "wikidata_item": "Q3099986",
+    "protoLanguage": "gba"
+  },
+  "alv-gbe": {
+    "canonicalName": "Gbe",
+    "family": "alv-von",
+    "wikidata_item": "Q668284"
+  },
+  "alv-gbf": {
+    "canonicalName": "Eastern Gbaya",
+    "family": "alv-gba"
+  },
+  "alv-gbs": {
+    "canonicalName": "Southern Gbaya",
+    "family": "alv-gba"
+  },
+  "alv-gbw": {
+    "canonicalName": "Western Gbaya",
+    "family": "alv-gba"
+  },
+  "alv-gda": {
+    "canonicalName": "Ga-Dangme",
+    "family": "alv-kwa",
+    "wikidata_item": "Q3443338"
+  },
+  "alv-gng": {
+    "canonicalName": "Guang",
+    "family": "alv-ptn",
+    "wikidata_item": "Q684009"
+  },
+  "alv-gtm": {
+    "canonicalName": "Ghana-Togo Mountain",
+    "aliases": "{\"Togo Remnant\""
+  },
+  "alv-hei": {
+    "canonicalName": "Heiban",
+    "family": "alv-the"
+  },
+  "alv-ido": {
+    "canonicalName": "Idomoid",
+    "family": "alv-von",
+    "wikidata_item": "Q974196"
+  },
+  "alv-igb": {
+    "canonicalName": "Igboid",
+    "family": "alv-von",
+    "wikidata_item": "Q1429100"
+  },
+  "alv-jfe": {
+    "canonicalName": "Jola-Felupe",
+    "aliases": "{\"Ejamat\""
+  },
+  "alv-jol": {
+    "canonicalName": "Jola",
+    "aliases": "{\"Diola\""
+  },
+  "alv-kim": {
+    "canonicalName": "Kim",
+    "family": "alv-mbd",
+    "wikidata_item": "Q6409701"
+  },
+  "alv-kis": {
+    "canonicalName": "Kissi",
+    "family": "alv-mel"
+  },
+  "alv-krb": {
+    "canonicalName": "Karaboro",
+    "family": "alv-snf",
+    "wikidata_item": "Q4213541"
+  },
+  "alv-ktg": {
+    "canonicalName": "Ka-Togo",
+    "family": "alv-gtm",
+    "wikidata_item": "Q5972796"
+  },
+  "alv-kul": {
+    "canonicalName": "Kulango",
+    "family": "alv-sav",
+    "wikidata_item": "Q16977424",
+    "aliases": "{\"Kulango-Lorhon\""
+  },
+  "alv-kwa": {
+    "canonicalName": "Kwa",
+    "family": "nic-vco",
+    "wikidata_item": "Q33430"
+  },
+  "alv-lag": {
+    "canonicalName": "Lagoon",
+    "family": "alv-kwa"
+  },
+  "alv-lek": {
+    "canonicalName": "Leko",
+    "otherNames": "{\"Sambaic\""
+  },
+  "alv-lim": {
+    "canonicalName": "Limba",
+    "family": "alv"
+  },
+  "alv-lni": {
+    "canonicalName": "Leko-Nimbari",
+    "otherNames": "{\"Central Adamawa\""
+  },
+  "alv-mbd": {
+    "canonicalName": "Mbum-Day",
+    "family": "alv-ada",
+    "wikidata_item": "Q6799816"
+  },
+  "alv-mbm": {
+    "canonicalName": "Mbum",
+    "family": "alv-mbd",
+    "wikidata_item": "Q6799814"
+  },
+  "alv-mel": {
+    "canonicalName": "Mel",
+    "family": "alv",
+    "wikidata_item": "Q12122355"
+  },
+  "alv-mum": {
+    "canonicalName": "Mumuye",
+    "family": "alv-mye",
+    "wikidata_item": "Q84607009"
+  },
+  "alv-mye": {
+    "canonicalName": "Mumuye-Yendang",
+    "family": "alv-lni",
+    "wikidata_item": "Q6935539"
+  },
+  "alv-nal": {
+    "canonicalName": "Nalu",
+    "family": "alv-sng"
+  },
+  "alv-nce": {
+    "canonicalName": "North-Central Edoid",
+    "family": "alv-edo"
+  },
+  "alv-ngb": {
+    "canonicalName": "Nupe-Gbagyi",
+    "aliases": "{\"Nupe-Gbari\""
+  },
+  "alv-ntg": {
+    "canonicalName": "Na-Togo",
+    "family": "alv-gtm"
+  },
+  "alv-nup": {
+    "canonicalName": "Nupoid",
+    "family": "alv-von",
+    "wikidata_item": "Q1429143"
+  },
+  "alv-nwd": {
+    "canonicalName": "Northwestern Edoid",
+    "family": "alv-edo"
+  },
+  "alv-nyn": {
+    "canonicalName": "Nyun",
+    "family": "alv-fwo"
+  },
+  "alv-pap": {
+    "canonicalName": "Papel",
+    "family": "alv-bak",
+    "wikidata_item": "Q7132562"
+  },
+  "alv-pph": {
+    "canonicalName": "Phla–Pherá",
+    "family": "alv-gbe",
+    "wikidata_item": "Q3849625"
+  },
+  "alv-ptn": {
+    "canonicalName": "Potou-Tano",
+    "family": "alv-kwa",
+    "wikidata_item": "Q1475003"
+  },
+  "alv-sav": {
+    "canonicalName": "Savanna",
+    "family": "nic-vco",
+    "wikidata_item": "Q4403672",
+    "aliases": "{\"Savannas\""
+  },
+  "alv-sma": {
+    "canonicalName": "Suppire-Mamara",
+    "family": "alv-snf",
+    "wikidata_item": "Q4446348"
+  },
+  "alv-snf": {
+    "canonicalName": "Senufo",
+    "family": "alv",
+    "wikidata_item": "Q33795",
+    "aliases": "{\"Senufic\""
+  },
+  "alv-sng": {
+    "canonicalName": "Senegambian",
+    "family": "alv",
+    "wikidata_item": "Q1708753"
+  },
+  "alv-snr": {
+    "canonicalName": "Senari",
+    "family": "alv-snf",
+    "wikidata_item": "Q4416084"
+  },
+  "alv-swd": {
+    "canonicalName": "Southwestern Edoid",
+    "family": "alv-edo"
+  },
+  "alv-tal": {
+    "canonicalName": "Talodi",
+    "family": "alv-the",
+    "wikidata_item": "Q12643302"
+  },
+  "alv-tdj": {
+    "canonicalName": "Tagwana-Djimini",
+    "family": "alv-snf",
+    "wikidata_item": "Q7675362"
+  },
+  "alv-ten": {
+    "canonicalName": "Tenda",
+    "family": "alv-fwo",
+    "wikidata_item": "Q3217535"
+  },
+  "alv-the": {
+    "canonicalName": "Talodi-Heiban",
+    "family": "alv",
+    "wikidata_item": "Q1521145"
+  },
+  "alv-von": {
+    "canonicalName": "Volta-Niger",
+    "family": "nic-vco",
+    "wikidata_item": "Q34177"
+  },
+  "alv-wan": {
+    "canonicalName": "Wara-Natyoro",
+    "family": "alv-sav",
+    "wikidata_item": "Q7968830"
+  },
+  "alv-wjk": {
+    "canonicalName": "Waja-Kam",
+    "family": "alv-ada"
+  },
+  "alv-yek": {
+    "canonicalName": "Yekhee",
+    "family": "alv-nce"
+  },
+  "alv-yor": {
+    "canonicalName": "Yoruboid",
+    "family": "alv-von",
+    "wikidata_item": "Q1789745"
+  },
+  "alv-yun": {
+    "canonicalName": "Yungur",
+    "aliases": "{\"Bena-Mboi\""
+  },
+  "ath-nor": {
+    "canonicalName": "North Athabaskan",
+    "aliases": "{\"Northern Athabaskan\""
+  },
+  "ath-pco": {
+    "canonicalName": "Pacific Coast Athabaskan",
+    "family": "ath",
+    "wikidata_item": "Q20654"
+  },
+  "aus-arn": {
+    "canonicalName": "Arnhem",
+    "aliases": "{\"Gunwinyguan\""
+  },
+  "aus-bub": {
+    "canonicalName": "Bunuban",
+    "aliases": "{\"Bunaban\""
+  },
+  "aus-cww": {
+    "canonicalName": "Central New South Wales",
+    "family": "aus-pam",
+    "wikidata_item": "Q5061507"
+  },
+  "aus-dal": {
+    "canonicalName": "Daly",
+    "wikidata_item": "Q2478079"
+  },
+  "aus-dyb": {
+    "canonicalName": "Dyirbalic",
+    "family": "aus-pam",
+    "wikidata_item": "Q1850666"
+  },
+  "aus-gar": {
+    "canonicalName": "Garawan",
+    "wikidata_item": "Q5521951"
+  },
+  "aus-gun": {
+    "canonicalName": "Gunwinyguan",
+    "aliases": "{\"Gunwingguan\""
+  },
+  "aus-jar": {
+    "canonicalName": "Jarrakan",
+    "wikidata_item": "Q2039423"
+  },
+  "aus-kar": {
+    "canonicalName": "Karnic",
+    "family": "aus-pam",
+    "wikidata_item": "Q4215578"
+  },
+  "aus-mir": {
+    "canonicalName": "Mirndi",
+    "wikidata_item": "Q4294095"
+  },
+  "aus-nga": {
+    "canonicalName": "Ngayarda",
+    "family": "aus-psw",
+    "wikidata_item": "Q16153490"
+  },
+  "aus-nyu": {
+    "canonicalName": "Nyulnyulan",
+    "wikidata_item": "Q2039408"
+  },
+  "aus-pam": {
+    "canonicalName": "Pama-Nyungan",
+    "wikidata_item": "Q33942"
+  },
+  "aus-pmn": {
+    "canonicalName": "Paman",
+    "family": "aus-pam",
+    "wikidata_item": "Q2640654"
+  },
+  "aus-psw": {
+    "canonicalName": "Southwest Pama-Nyungan",
+    "family": "aus-pam",
+    "wikidata_item": "Q2258160"
+  },
+  "aus-rnd": {
+    "canonicalName": "Arandic",
+    "family": "aus-pam",
+    "wikidata_item": "Q4784071"
+  },
+  "aus-tnk": {
+    "canonicalName": "Tangkic",
+    "wikidata_item": "Q1823065"
+  },
+  "aus-wdj": {
+    "canonicalName": "Iwaidjan",
+    "aliases": "{\"Yiwaidjan\""
+  },
+  "aus-wor": {
+    "canonicalName": "Worrorran",
+    "wikidata_item": "Q2038619"
+  },
+  "aus-yid": {
+    "canonicalName": "Yidinyic",
+    "family": "aus-pam",
+    "wikidata_item": "Q4205849"
+  },
+  "aus-yng": {
+    "canonicalName": "Yangmanic",
+    "wikidata_item": "Q42727644"
+  },
+  "aus-yol": {
+    "canonicalName": "Yolngu",
+    "aliases": "{\"Yolŋu\""
+  },
+  "aus-yuk": {
+    "canonicalName": "Yuin-Kuric",
+    "family": "aus-pam",
+    "wikidata_item": "Q3833021"
+  },
+  "awd-nwk": {
+    "canonicalName": "Nawiki",
+    "aliases": "{\"Newiki\""
+  },
+  "awd-taa": {
+    "canonicalName": "Ta-Arawakan",
+    "aliases": "{\"Ta-Arawak\""
+  },
+  "azc-cup": {
+    "canonicalName": "Cupan",
+    "family": "azc-tak",
+    "wikidata_item": "Q19866871"
+  },
+  "azc-nah": {
+    "canonicalName": "Nahuan",
+    "aliases": "{\"Aztecan\""
+  },
+  "azc-num": {
+    "canonicalName": "Numic",
+    "family": "azc",
+    "wikidata_item": "Q2657541"
+  },
+  "azc-tak": {
+    "canonicalName": "Takic",
+    "family": "azc",
+    "wikidata_item": "Q1280305"
+  },
+  "azc-trc": {
+    "canonicalName": "Taracahitic",
+    "aliases": "{\"Taracahitan\""
+  },
+  "bad-cnt": {
+    "canonicalName": "Central Banda",
+    "family": "bad",
+    "wikidata_item": "Q3438391"
+  },
+  "bnt-baf": {
+    "canonicalName": "Bafia",
+    "family": "bnt",
+    "wikidata_item": "Q799784"
+  },
+  "bnt-bbo": {
+    "canonicalName": "Bafo-Bonkeng",
+    "family": "bnt-saw"
+  },
+  "bnt-bdz": {
+    "canonicalName": "Boma-Dzing",
+    "family": "bnt",
+    "wikidata_item": "Q1729203"
+  },
+  "bnt-bek": {
+    "canonicalName": "Bekwilic",
+    "family": "bnt-ndb"
+  },
+  "bnt-bki": {
+    "canonicalName": "Bena-Kinga",
+    "family": "bnt-bne",
+    "wikidata_item": "Q16113307"
+  },
+  "bnt-bmo": {
+    "canonicalName": "Bangi-Moi",
+    "family": "bnt-bnm"
+  },
+  "bnt-bne": {
+    "canonicalName": "Northeast Bantu",
+    "family": "bnt",
+    "wikidata_item": "Q7057832"
+  },
+  "bnt-bnm": {
+    "canonicalName": "Bangi-Ntomba",
+    "family": "bnt-bte",
+    "wikidata_item": "Q806477"
+  },
+  "bnt-boa": {
+    "canonicalName": "Boan",
+    "aliases": "{\"Buan\""
+  },
+  "bnt-bot": {
+    "canonicalName": "Botatwe",
+    "family": "bnt",
+    "wikidata_item": "Q4948532"
+  },
+  "bnt-bsa": {
+    "canonicalName": "Basaa",
+    "family": "bnt",
+    "wikidata_item": "Q809739"
+  },
+  "bnt-bsh": {
+    "canonicalName": "Bushoong",
+    "family": "bnt-bte",
+    "wikidata_item": "Q5001551"
+  },
+  "bnt-bso": {
+    "canonicalName": "Southern Bantu",
+    "family": "bnt",
+    "wikidata_item": "Q980498"
+  },
+  "bnt-bta": {
+    "canonicalName": "Bati-Angba",
+    "otherNames": "{\"Late Bomokandian\""
+  },
+  "bnt-btb": {
+    "canonicalName": "Beti",
+    "family": "bnt",
+    "wikidata_item": "Q35118"
+  },
+  "bnt-bte": {
+    "canonicalName": "Bangi-Tetela",
+    "family": "bnt",
+    "wikidata_item": "Q4855181"
+  },
+  "bnt-bun": {
+    "canonicalName": "Buja-Ngombe",
+    "family": "bnt-mbb",
+    "wikidata_item": "Q4986733"
+  },
+  "bnt-chg": {
+    "canonicalName": "Chaga",
+    "family": "bnt-cht",
+    "wikidata_item": "Q33016"
+  },
+  "bnt-cht": {
+    "canonicalName": "Chaga-Taita",
+    "family": "bnt-bne"
+  },
+  "bnt-clu": {
+    "canonicalName": "Chokwe-Luchazi",
+    "family": "bnt",
+    "wikidata_item": "Q3339273"
+  },
+  "bnt-com": {
+    "canonicalName": "Comorian",
+    "family": "bnt-sab",
+    "wikidata_item": "Q33077"
+  },
+  "bnt-glb": {
+    "canonicalName": "Great Lakes Bantu",
+    "family": "bnt-bne",
+    "wikidata_item": "Q5599420"
+  },
+  "bnt-haj": {
+    "canonicalName": "Haya-Jita",
+    "family": "bnt-glb",
+    "wikidata_item": "Q25502360"
+  },
+  "bnt-kak": {
+    "canonicalName": "Kako",
+    "family": "bnt-pob"
+  },
+  "bnt-kav": {
+    "canonicalName": "Kavango",
+    "family": "bnt-ksb"
+  },
+  "bnt-kbi": {
+    "canonicalName": "Komo-Bira",
+    "family": "bnt-boa",
+    "wikidata_item": "Q6428591"
+  },
+  "bnt-kel": {
+    "canonicalName": "Kele",
+    "aliases": "{\"Sheke\""
+  },
+  "bnt-kil": {
+    "canonicalName": "Kilombero",
+    "family": "bnt",
+    "wikidata_item": "Q6408121"
+  },
+  "bnt-kka": {
+    "canonicalName": "Kikuyu-Kamba",
+    "aliases": "{\"Thagiicu\""
+  },
+  "bnt-kmb": {
+    "canonicalName": "Kimbundu",
+    "family": "bnt",
+    "wikidata_item": "Q16947687"
+  },
+  "bnt-kng": {
+    "canonicalName": "Kongo",
+    "family": "bnt",
+    "wikidata_item": "Q6429214"
+  },
+  "bnt-kpw": {
+    "canonicalName": "Kpwe",
+    "family": "bnt-saw"
+  },
+  "bnt-ksb": {
+    "canonicalName": "Kavango-Southwest Bantu",
+    "family": "bnt",
+    "wikidata_item": "Q6379098"
+  },
+  "bnt-kts": {
+    "canonicalName": "Kele-Tsogo",
+    "family": "bnt",
+    "wikidata_item": "Q6385577"
+  },
+  "bnt-lbn": {
+    "canonicalName": "Luban",
+    "family": "bnt",
+    "wikidata_item": "Q4536504"
+  },
+  "bnt-leb": {
+    "canonicalName": "Lebonya",
+    "family": "bnt",
+    "wikidata_item": "Q6511395"
+  },
+  "bnt-lgb": {
+    "canonicalName": "Lega-Binja",
+    "family": "bnt",
+    "wikidata_item": "Q6517694"
+  },
+  "bnt-lok": {
+    "canonicalName": "Logooli-Kuria",
+    "family": "bnt-glb"
+  },
+  "bnt-lub": {
+    "canonicalName": "Luba",
+    "family": "bnt-lbn"
+  },
+  "bnt-lun": {
+    "canonicalName": "Lunda",
+    "family": "bnt",
+    "wikidata_item": "Q6704091"
+  },
+  "bnt-mak": {
+    "canonicalName": "Makua",
+    "aliases": "{\"Makhuwa\""
+  },
+  "bnt-mbb": {
+    "canonicalName": "Mboshi-Buja",
+    "family": "bnt",
+    "wikidata_item": "Q6799764"
+  },
+  "bnt-mbe": {
+    "canonicalName": "Mbole-Enya",
+    "family": "bnt",
+    "wikidata_item": "Q6799728"
+  },
+  "bnt-mbi": {
+    "canonicalName": "Mbinga",
+    "family": "bnt-rur"
+  },
+  "bnt-mbo": {
+    "canonicalName": "Mboshi",
+    "family": "bnt-mbb",
+    "wikidata_item": "Q6799763"
+  },
+  "bnt-mbt": {
+    "canonicalName": "Mbete",
+    "family": "bnt-tmb",
+    "wikidata_item": "Q1346910",
+    "aliases": "{\"Mbere\""
+  },
+  "bnt-mby": {
+    "canonicalName": "Mbeya",
+    "family": "bnt-ruk"
+  },
+  "bnt-mij": {
+    "canonicalName": "Mijikenda",
+    "family": "bnt-sab",
+    "wikidata_item": "Q6845474"
+  },
+  "bnt-mka": {
+    "canonicalName": "Makaa",
+    "family": "bnt-ndb"
+  },
+  "bnt-mne": {
+    "canonicalName": "Manenguba",
+    "aliases": "{\"Mbo\""
+  },
+  "bnt-mnj": {
+    "canonicalName": "Makaa-Njem",
+    "family": "bnt-pob",
+    "wikidata_item": "Q1603899"
+  },
+  "bnt-mon": {
+    "canonicalName": "Mongo",
+    "family": "bnt-bnm"
+  },
+  "bnt-mra": {
+    "canonicalName": "Mbugwe-Rangi",
+    "family": "bnt",
+    "wikidata_item": "Q6799795"
+  },
+  "bnt-msl": {
+    "canonicalName": "Masaba-Luhya",
+    "family": "bnt-glb",
+    "wikidata_item": "Q12636428"
+  },
+  "bnt-mwi": {
+    "canonicalName": "Mwika",
+    "family": "bnt-ruk"
+  },
+  "bnt-ncb": {
+    "canonicalName": "Northeast Coast Bantu",
+    "family": "bnt-bne",
+    "wikidata_item": "Q7057848"
+  },
+  "bnt-ndb": {
+    "canonicalName": "Ndzem-Bomwali",
+    "family": "bnt-mnj"
+  },
+  "bnt-ngn": {
+    "canonicalName": "Ngondi-Ngiri",
+    "family": "bnt-mbb",
+    "wikidata_item": "Q7022532"
+  },
+  "bnt-ngu": {
+    "canonicalName": "Nguni",
+    "aliases": "{\"Ngoni\""
+  },
+  "bnt-nya": {
+    "canonicalName": "Nyali",
+    "family": "bnt-leb",
+    "wikidata_item": "Q7070832"
+  },
+  "bnt-nyb": {
+    "canonicalName": "Nyanga-Buyi",
+    "family": "bnt",
+    "wikidata_item": "Q7070882"
+  },
+  "bnt-nyg": {
+    "canonicalName": "Nyoro-Ganda",
+    "family": "bnt-glb",
+    "wikidata_item": "Q12638666"
+  },
+  "bnt-nys": {
+    "canonicalName": "Nyasa",
+    "family": "bnt",
+    "wikidata_item": "Q7070921"
+  },
+  "bnt-nze": {
+    "canonicalName": "Nzebi",
+    "family": "bnt-tmb",
+    "wikidata_item": "Q1755498",
+    "aliases": "{\"Njebi\""
+  },
+  "bnt-ova": {
+    "canonicalName": "Ovambo",
+    "aliases": "{\"Oshivambo\""
+  },
+  "bnt-par": {
+    "canonicalName": "Pare",
+    "family": "bnt-ncb"
+  },
+  "bnt-pen": {
+    "canonicalName": "Pende",
+    "family": "bnt",
+    "wikidata_item": "Q7162373"
+  },
+  "bnt-pob": {
+    "canonicalName": "Pomo-Bomwali",
+    "family": "bnt"
+  },
+  "bnt-ruk": {
+    "canonicalName": "Rukwa",
+    "family": "bnt",
+    "wikidata_item": "Q7378902"
+  },
+  "bnt-run": {
+    "canonicalName": "Rungwe",
+    "family": "bnt-ruk"
+  },
+  "bnt-rur": {
+    "canonicalName": "Rufiji-Ruvuma",
+    "family": "bnt",
+    "wikidata_item": "Q7377947"
+  },
+  "bnt-ruv": {
+    "canonicalName": "Ruvu",
+    "family": "bnt-ncb"
+  },
+  "bnt-rvm": {
+    "canonicalName": "Ruvuma",
+    "family": "bnt-rur"
+  },
+  "bnt-sab": {
+    "canonicalName": "Sabaki",
+    "family": "bnt-ncb",
+    "wikidata_item": "Q2209395"
+  },
+  "bnt-saw": {
+    "canonicalName": "Sawabantu",
+    "family": "bnt",
+    "wikidata_item": "Q532003"
+  },
+  "bnt-sbi": {
+    "canonicalName": "Sabi",
+    "family": "bnt",
+    "wikidata_item": "Q7396071"
+  },
+  "bnt-seu": {
+    "canonicalName": "Seuta",
+    "family": "bnt-ncb"
+  },
+  "bnt-shh": {
+    "canonicalName": "Shi-Havu",
+    "family": "bnt-glb"
+  },
+  "bnt-sho": {
+    "canonicalName": "Shona",
+    "family": "bnt",
+    "wikidata_item": "Q2904660"
+  },
+  "bnt-sir": {
+    "canonicalName": "Sira",
+    "family": "bnt",
+    "wikidata_item": "Q1436372",
+    "aliases": "{\"Shira-Punu\""
+  },
+  "bnt-ske": {
+    "canonicalName": "Soko-Kele",
+    "family": "bnt-bte"
+  },
+  "bnt-sna": {
+    "canonicalName": "Sena",
+    "family": "bnt-nys"
+  },
+  "bnt-sts": {
+    "canonicalName": "Sotho-Tswana",
+    "family": "bnt-bso",
+    "wikidata_item": "Q2038386"
+  },
+  "bnt-swb": {
+    "canonicalName": "Southwest Bantu",
+    "family": "bnt-ksb"
+  },
+  "bnt-swh": {
+    "canonicalName": "Swahili",
+    "family": "bnt-sab"
+  },
+  "bnt-tek": {
+    "canonicalName": "Teke",
+    "family": "bnt-tmb",
+    "wikidata_item": "Q36528"
+  },
+  "bnt-tet": {
+    "canonicalName": "Tetela",
+    "family": "bnt-bte",
+    "wikidata_item": "Q7706059"
+  },
+  "bnt-tkc": {
+    "canonicalName": "Central Teke",
+    "family": "bnt-tek"
+  },
+  "bnt-tkm": {
+    "canonicalName": "Takama",
+    "family": "bnt-bne"
+  },
+  "bnt-tmb": {
+    "canonicalName": "Teke-Mbede",
+    "family": "bnt",
+    "wikidata_item": "Q7695332",
+    "aliases": "{\"Teke-Mbere\""
+  },
+  "bnt-tso": {
+    "canonicalName": "Tsogo",
+    "otherNames": "{\"Okani\""
+  },
+  "bnt-tsr": {
+    "canonicalName": "Tswa-Ronga",
+    "family": "bnt-bso",
+    "wikidata_item": "Q12643962"
+  },
+  "bnt-yak": {
+    "canonicalName": "Yaka",
+    "family": "bnt",
+    "wikidata_item": "Q8047027"
+  },
+  "bnt-yko": {
+    "canonicalName": "Yasa-Kombe",
+    "family": "bnt-saw"
+  },
+  "bnt-zbi": {
+    "canonicalName": "Zamba-Binza",
+    "family": "bnt-bnm"
+  },
+  "cau-abz": {
+    "canonicalName": "Abkhaz-Abaza",
+    "otherNames": "{\"Abkhaz-Tapanta\""
+  },
+  "cau-ava": {
+    "canonicalName": "Avaro-Andian",
+    "otherNames": "{\"Andian\""
+  },
+  "cau-cir": {
+    "canonicalName": "Circassian",
+    "aliases": "{\"Cherkess\""
+  },
+  "cau-drg": {
+    "canonicalName": "Dargwa",
+    "otherNames": "{\"Dargin\""
+  },
+  "cau-lzg": {
+    "canonicalName": "Lezghian",
+    "aliases": "{\"Lezgi\""
+  },
+  "cau-nkh": {
+    "canonicalName": "Nakh",
+    "aliases": "{\"North-Central Caucasian\""
+  },
+  "cau-nec": {
+    "canonicalName": "Northeast Caucasian",
+    "aliases": "{\"Dagestanian\""
+  },
+  "cau-nwc": {
+    "canonicalName": "Northwest Caucasian",
+    "aliases": "{\"Abkhazo-Adyghean\""
+  },
+  "cau-tsz": {
+    "canonicalName": "Tsezian",
+    "aliases": "{\"Tsezic\""
+  },
+  "ccs-gzn": {
+    "canonicalName": "Georgian-Zan",
+    "aliases": "{\"Karto-Zan\""
+  },
+  "ccs-zan": {
+    "canonicalName": "Zan",
+    "aliases": "{\"Zanuri\""
+  },
+  "cdc-cbm": {
+    "canonicalName": "Central Chadic",
+    "aliases": "{\"Biu-Mandara\""
+  },
+  "cdc-est": {
+    "canonicalName": "East Chadic",
+    "family": "cdc",
+    "wikidata_item": "Q2276221"
+  },
+  "cdc-mas": {
+    "canonicalName": "Masa",
+    "family": "cdc",
+    "wikidata_item": "Q2136092"
+  },
+  "cdc-wst": {
+    "canonicalName": "West Chadic",
+    "family": "cdc",
+    "wikidata_item": "Q2447774"
+  },
+  "cel-bry": {
+    "canonicalName": "Brythonic",
+    "family": "cel",
+    "wikidata_item": "Q156877"
+  },
+  "cel-gae": {
+    "canonicalName": "Goidelic",
+    "aliases": "{\"Gaelic\""
+  },
+  "csu-bba": {
+    "canonicalName": "Bongo-Bagirmi",
+    "family": "csu",
+    "wikidata_item": "Q3505042"
+  },
+  "csu-bbk": {
+    "canonicalName": "Bongo-Baka",
+    "family": "csu-bba",
+    "wikidata_item": "Q4941917"
+  },
+  "csu-bgr": {
+    "canonicalName": "Bagirmi",
+    "family": "csu-bba",
+    "wikidata_item": "Q4841948",
+    "aliases": "{\"Bagirmic\""
+  },
+  "csu-bkr": {
+    "canonicalName": "Birri-Kresh",
+    "family": "csu"
+  },
+  "csu-ecs": {
+    "canonicalName": "Eastern Central Sudanic",
+    "family": "csu",
+    "wikidata_item": "Q16911698",
+    "aliases": "{\"East Central Sudanic\""
+  },
+  "csu-kab": {
+    "canonicalName": "Kaba",
+    "family": "csu-bba",
+    "wikidata_item": "Q6343715"
+  },
+  "csu-lnd": {
+    "canonicalName": "Lendu",
+    "family": "csu-ecs",
+    "wikidata_item": "Q6522357",
+    "aliases": "{\"Lenduic\""
+  },
+  "csu-maa": {
+    "canonicalName": "Mangbetu",
+    "family": "csu-ecs",
+    "wikidata_item": "Q6748874",
+    "aliases": "{\"Mangbetu-Asoa\""
+  },
+  "csu-mle": {
+    "canonicalName": "Mangbutu-Lese",
+    "family": "csu-ecs",
+    "wikidata_item": "Q17009406",
+    "aliases": "{\"Mangbutu–Efe\""
+  },
+  "csu-mma": {
+    "canonicalName": "Moru-Madi",
+    "family": "csu-ecs",
+    "wikidata_item": "Q6915156"
+  },
+  "csu-sar": {
+    "canonicalName": "Sara",
+    "family": "csu-bba",
+    "wikidata_item": "Q2036691"
+  },
+  "csu-val": {
+    "canonicalName": "Vale",
+    "family": "csu-bba",
+    "wikidata_item": "Q7909520"
+  },
+  "dmn-bbu": {
+    "canonicalName": "Bisa-Busa",
+    "family": "dmn-mde",
+    "wikidata_item": "Q12627956"
+  },
+  "dmn-emn": {
+    "canonicalName": "East Manding",
+    "family": "dmn-man"
+  },
+  "dmn-jje": {
+    "canonicalName": "Jogo-Jeri",
+    "family": "dmn-mjo"
+  },
+  "dmn-man": {
+    "canonicalName": "Manding",
+    "family": "dmn-mmo",
+    "wikidata_item": "Q35772"
+  },
+  "dmn-mda": {
+    "canonicalName": "Mano-Dan",
+    "family": "dmn-mse"
+  },
+  "dmn-mdc": {
+    "canonicalName": "Central Mande",
+    "family": "dmn-mdw",
+    "wikidata_item": "Q5972907"
+  },
+  "dmn-mde": {
+    "canonicalName": "Eastern Mande",
+    "family": "dmn",
+    "wikidata_item": "Q12633080"
+  },
+  "dmn-mdw": {
+    "canonicalName": "Western Mande",
+    "family": "dmn",
+    "wikidata_item": "Q16113831"
+  },
+  "dmn-mjo": {
+    "canonicalName": "Manding-Jogo",
+    "family": "dmn-mdc",
+    "wikidata_item": "Q12636153"
+  },
+  "dmn-mmo": {
+    "canonicalName": "Manding-Mokole",
+    "family": "dmn-mva"
+  },
+  "dmn-mnk": {
+    "canonicalName": "Maninka",
+    "family": "dmn-emn"
+  },
+  "dmn-mnw": {
+    "canonicalName": "Northwestern Mande",
+    "family": "dmn-mdw",
+    "wikidata_item": "Q5972910"
+  },
+  "dmn-mok": {
+    "canonicalName": "Mokole",
+    "family": "dmn-mmo",
+    "wikidata_item": "Q16935447"
+  },
+  "dmn-mse": {
+    "canonicalName": "Southeastern Mande",
+    "family": "dmn-mde",
+    "wikidata_item": "Q5972912"
+  },
+  "dmn-msw": {
+    "canonicalName": "Southwestern Mande",
+    "family": "dmn-mdw",
+    "wikidata_item": "Q12633904"
+  },
+  "dmn-mva": {
+    "canonicalName": "Manding-Vai",
+    "family": "dmn-mjo"
+  },
+  "dmn-nbe": {
+    "canonicalName": "Nwa-Beng",
+    "family": "dmn-mse"
+  },
+  "dmn-sam": {
+    "canonicalName": "Samo",
+    "family": "dmn-bbu",
+    "aliases": "{\"Samuic\""
+  },
+  "dmn-smg": {
+    "canonicalName": "Samogo",
+    "family": "dmn-mnw",
+    "wikidata_item": "Q7410000",
+    "aliases": "{\"Duun-Seenku\""
+  },
+  "dmn-snb": {
+    "canonicalName": "Soninke-Bobo",
+    "family": "dmn-mnw",
+    "wikidata_item": "Q16111680"
+  },
+  "dmn-sya": {
+    "canonicalName": "Susu-Yalunka",
+    "family": "dmn-mdc"
+  },
+  "dmn-vak": {
+    "canonicalName": "Vai-Kono",
+    "family": "dmn-mva"
+  },
+  "dmn-wmn": {
+    "canonicalName": "West Manding",
+    "family": "dmn-man"
+  },
+  "esx-esk": {
+    "canonicalName": "Eskimo",
+    "family": "esx",
+    "wikidata_item": "Q25946"
+  },
+  "esx-inu": {
+    "canonicalName": "Inuit",
+    "family": "esx-esk",
+    "wikidata_item": "Q27796"
+  },
+  "fiu-fin": {
+    "canonicalName": "Finnic",
+    "family": "urj",
+    "wikidata_item": "Q33328"
+  },
+  "gmw-fri": {
+    "canonicalName": "fríz",
+    "protoLanguage": "ofs",
+    "family": "gmw",
+    "wikidata_item": "Q25325"
+  },
+  "hmx-mie": {
+    "canonicalName": "Mien",
+    "family": "hmx",
+    "wikidata_item": "Q7992695"
+  },
+  "iir-nur": {
+    "canonicalName": "Nuristani",
+    "family": "iir",
+    "wikidata_item": "Q161804"
+  },
+  "nur-nor": {
+    "canonicalName": "Northern Nuristani",
+    "family": "iir-nur"
+  },
+  "nur-sou": {
+    "canonicalName": "Southern Nuristani",
+    "family": "iir-nur"
+  },
+  "inc-bhi": {
+    "canonicalName": "Bhil",
+    "family": "inc-psu",
+    "wikidata_item": "Q4901727"
+  },
+  "inc-dar": {
+    "canonicalName": "Dardic",
+    "family": "inc-old",
+    "wikidata_item": "Q161101"
+  },
+  "inc-old": {
+    "canonicalName": "Old Indo-Aryan",
+    "aliases": "{\"Old Indic\""
+  },
+  "inc-pah": {
+    "canonicalName": "Pahari",
+    "aliases": "{\"Pahadi\""
+  },
+  "inc-psu": {
+    "canonicalName": "Sauraseni Prakrit",
+    "aliases": "{\"Sauraseni\""
+  },
+  "inc-rom": {
+    "canonicalName": "cigány",
+    "aliases": "{\"Romany\""
+  },
+  "ine-ana": {
+    "canonicalName": "anatóliai",
+    "family": "ine",
+    "wikidata_item": "Q147085"
+  },
+  "ine-bsl": {
+    "canonicalName": "balti-szláv",
+    "family": "ine",
+    "wikidata_item": "Q147356"
+  },
+  "ine-toc": {
+    "canonicalName": "Tocharian",
+    "aliases": "{\"Tokharian\""
+  },
+  "ira-csp": {
+    "canonicalName": "Caspian",
+    "family": "ira-mpr"
+  },
+  "ira-cen": {
+    "canonicalName": "Central Iranian",
+    "family": "ira"
+  },
+  "ira-mny": {
+    "canonicalName": "Munji-Yidgha",
+    "aliases": "{\"Yidgha-Munji\""
+  },
+  "ira-msh": {
+    "canonicalName": "Mazanderani-Shahmirzadi",
+    "family": "ira-csp"
+  },
+  "ira-nei": {
+    "canonicalName": "északkelet-iráni",
+    "family": "ira"
+  },
+  "ira-nwi": {
+    "canonicalName": "északnyugat-iráni",
+    "family": "ira-wes"
+  },
+  "ira-orp": {
+    "canonicalName": "Ormuri-Parachi",
+    "family": "ira-sei"
+  },
+  "ira-pat": {
+    "canonicalName": "Pathan",
+    "family": "ira-sei",
+    "protoLanguage": "ira-pat-pro"
+  },
+  "ira-sbc": {
+    "canonicalName": "Sogdo-Bactrian",
+    "family": "ira-nei"
+  },
+  "xsc-skw": {
+    "canonicalName": "Saka-Wakhi",
+    "family": "xsc"
+  },
+  "xsc-sak": {
+    "canonicalName": "Sakan",
+    "aliases": "{\"Saka\""
+  },
+  "ira-mpr": {
+    "canonicalName": "Medo-Parthian",
+    "aliases": "{\"Partho-Median\""
+  },
+  "ira-kms": {
+    "canonicalName": "Komisenian",
+    "aliases": "{\"Semnani\""
+  },
+  "ira-sgi": {
+    "canonicalName": "Sanglechi-Ishkashimi",
+    "family": "ira-sei"
+  },
+  "ira-shy": {
+    "canonicalName": "Shughni-Yazghulami",
+    "family": "ira-sym"
+  },
+  "ira-sgc": {
+    "canonicalName": "Sogdic",
+    "aliases": "{\"Sogdian\""
+  },
+  "ira-sei": {
+    "canonicalName": "délkelet-iráni",
+    "family": "ira"
+  },
+  "ira-swi": {
+    "canonicalName": "délnyugat-iráni",
+    "family": "ira-wes"
+  },
+  "ira-sym": {
+    "canonicalName": "Shughni-Yazghulami-Munji",
+    "family": "ira-sei"
+  },
+  "xme-ttc": {
+    "canonicalName": "Tatic",
+    "family": "xme",
+    "protoLanguage": "xme-ttc-pro"
+  },
+  "ira-wes": {
+    "canonicalName": "nyugat-iráni",
+    "family": "ira",
+    "wikidata_item": "Q129850"
+  },
+  "ira-zgr": {
+    "canonicalName": "Zaza-Gorani",
+    "aliases": "{\"Zaza-Gurani\""
+  },
+  "jpx-ryu": {
+    "canonicalName": "Ryukyuan",
+    "family": "jpx",
+    "wikidata_item": "Q56393"
+  },
+  "khi-kal": {
+    "canonicalName": "Kalahari Khoe",
+    "family": "khi-kho"
+  },
+  "khi-khk": {
+    "canonicalName": "Khoekhoe",
+    "family": "khi-kho"
+  },
+  "khi-kkw": {
+    "canonicalName": "Khoe-Kwadi",
+    "aliases": "{\"Kwadi-Khoe\""
+  },
+  "khi-kho": {
+    "canonicalName": "Khoe",
+    "aliases": "{\"Central Khoisan\""
+  },
+  "khi-kxa": {
+    "canonicalName": "Kx'a",
+    "aliases": "{\"Kxa\""
+  },
+  "khi-tuu": {
+    "canonicalName": "Tuu",
+    "aliases": "{\"Kwi\""
+  },
+  "kro-aiz": {
+    "canonicalName": "Aizi",
+    "family": "kro",
+    "wikidata_item": "Q4699431"
+  },
+  "kro-bet": {
+    "canonicalName": "Bété",
+    "family": "kro-ekr",
+    "wikidata_item": "Q32956"
+  },
+  "kro-did": {
+    "canonicalName": "Dida",
+    "family": "kro-ekr",
+    "wikidata_item": "Q32685"
+  },
+  "kro-ekr": {
+    "canonicalName": "Eastern Kru",
+    "family": "kro",
+    "wikidata_item": "Q5972899"
+  },
+  "kro-grb": {
+    "canonicalName": "Grebo",
+    "family": "kro-wkr",
+    "wikidata_item": "Q5601537"
+  },
+  "kro-wee": {
+    "canonicalName": "Wee",
+    "family": "kro-wkr"
+  },
+  "kro-wkr": {
+    "canonicalName": "Western Kru",
+    "family": "kro",
+    "wikidata_item": "Q5972897"
+  },
+  "map-ata": {
+    "canonicalName": "Atayalic",
+    "family": "map",
+    "wikidata_item": "Q716610"
+  },
+  "mkh-asl": {
+    "canonicalName": "Aslian",
+    "family": "mkh",
+    "wikidata_item": "Q3111082"
+  },
+  "mkh-ban": {
+    "canonicalName": "Bahnaric",
+    "family": "mkh",
+    "wikidata_item": "Q56309"
+  },
+  "mkh-kat": {
+    "canonicalName": "Katuic",
+    "family": "mkh",
+    "wikidata_item": "Q56697"
+  },
+  "mkh-khm": {
+    "canonicalName": "Khmuic",
+    "family": "mkh",
+    "wikidata_item": "Q1323245"
+  },
+  "mkh-kmr": {
+    "canonicalName": "Khmeric",
+    "family": "mkh"
+  },
+  "mkh-mnc": {
+    "canonicalName": "Monic",
+    "family": "mkh",
+    "wikidata_item": "Q3217497"
+  },
+  "mkh-mng": {
+    "canonicalName": "Mangic",
+    "family": "mkh",
+    "wikidata_item": "Q3509556"
+  },
+  "mkh-nbn": {
+    "canonicalName": "North Bahnaric",
+    "family": "mkh-ban",
+    "wikidata_item": "Q56309"
+  },
+  "mkh-pal": {
+    "canonicalName": "Palaungic",
+    "family": "mkh",
+    "wikidata_item": "Q2391173"
+  },
+  "mkh-pea": {
+    "canonicalName": "Pearic",
+    "family": "mkh",
+    "wikidata_item": "Q3073022"
+  },
+  "mkh-pkn": {
+    "canonicalName": "Pakanic",
+    "family": "mkh-mng"
+  },
+  "mkh-vie": {
+    "canonicalName": "Vietic",
+    "family": "mkh",
+    "wikidata_item": "Q2355546"
+  },
+  "nai-cat": {
+    "canonicalName": "Catawban",
+    "family": "nai-sca",
+    "wikidata_item": "Q3446638"
+  },
+  "nai-chu": {
+    "canonicalName": "Chumashan",
+    "wikidata_item": "Q1288420"
+  },
+  "nai-ckn": {
+    "canonicalName": "Chinookan",
+    "wikidata_item": "Q610586"
+  },
+  "nai-coo": {
+    "canonicalName": "Coosan",
+    "wikidata_item": "Q940278"
+  },
+  "nai-ker": {
+    "canonicalName": "Keresan",
+    "wikidata_item": "Q35878"
+  },
+  "nai-klp": {
+    "canonicalName": "Kalapuyan",
+    "wikidata_item": "Q1569040"
+  },
+  "nai-kta": {
+    "canonicalName": "Kiowa-Tanoan",
+    "wikidata_item": "Q386288"
+  },
+  "nai-len": {
+    "canonicalName": "Lencan",
+    "aliases": "{\"Lenca\""
+  },
+  "nai-mdu": {
+    "canonicalName": "Maiduan",
+    "wikidata_item": "Q33502"
+  },
+  "nai-miz": {
+    "canonicalName": "Mixe-Zoquean",
+    "aliases": "{\"Mixe-Zoque\""
+  },
+  "nai-min": {
+    "canonicalName": "Misumalpan",
+    "aliases": "{\"Misuluan\""
+  },
+  "nai-mus": {
+    "canonicalName": "Muskogean",
+    "aliases": "{\"Muskhogean\""
+  },
+  "nai-pak": {
+    "canonicalName": "Pakawan",
+    "family": "hok",
+    "wikidata_item": "Q65085487"
+  },
+  "nai-pal": {
+    "canonicalName": "Palaihnihan",
+    "wikidata_item": "Q1288332"
+  },
+  "nai-plp": {
+    "canonicalName": "Plateau Penutian",
+    "wikidata_item": "Q2307476"
+  },
+  "nai-pom": {
+    "canonicalName": "Pomoan",
+    "aliases": "{\"Pomo\""
+  },
+  "nai-sca": {
+    "canonicalName": "Siouan-Catawban",
+    "wikidata_item": "Q34181"
+  },
+  "nai-shp": {
+    "canonicalName": "Sahaptian",
+    "wikidata_item": "Q114782",
+    "family": "nai-plp"
+  },
+  "nai-shs": {
+    "canonicalName": "Shastan",
+    "family": "hok",
+    "wikidata_item": "Q2991735"
+  },
+  "nai-tot": {
+    "canonicalName": "Totozoquean",
+    "wikidata_item": "Q7828419"
+  },
+  "nai-ttn": {
+    "canonicalName": "Totonacan",
+    "aliases": "{\"Totonac-Tepehua\""
+  },
+  "nai-tqn": {
+    "canonicalName": "Tequistlatecan",
+    "aliases": "{\"Tequistlatec\""
+  },
+  "nai-tsi": {
+    "canonicalName": "Tsimshianic",
+    "wikidata_item": "Q34134"
+  },
+  "nai-utn": {
+    "canonicalName": "Utian",
+    "aliases": "{\"Miwok-Costanoan\""
+  },
+  "nai-wtq": {
+    "canonicalName": "Wintuan",
+    "aliases": "{\"Wintun\""
+  },
+  "nai-xin": {
+    "canonicalName": "Xincan",
+    "aliases": "{\"Xinca\""
+  },
+  "nai-yok": {
+    "canonicalName": "Yokutsan",
+    "aliases": "{\"Yokuts\""
+  },
+  "nai-you": {
+    "canonicalName": "Yok-Utian",
+    "wikidata_item": "Q2886186"
+  },
+  "nai-yuc": {
+    "canonicalName": "Yuman-Cochimí",
+    "wikidata_item": "Q579137"
+  },
+  "ngf-fin": {
+    "canonicalName": "Finisterre",
+    "family": "ngf",
+    "wikidata_item": "Q5450373"
+  },
+  "ngf-mad": {
+    "canonicalName": "Madang",
+    "family": "ngf",
+    "wikidata_item": "Q11217556"
+  },
+  "ngf-okk": {
+    "canonicalName": "Ok",
+    "family": "ngf",
+    "wikidata_item": "Q7081687"
+  },
+  "ngf-sbh": {
+    "canonicalName": "South Bird's Head",
+    "family": "ngf",
+    "wikidata_item": "Q7566330"
+  },
+  "nic-alu": {
+    "canonicalName": "Alumic",
+    "family": "nic-plt",
+    "wikidata_item": "Q4737355"
+  },
+  "nic-bas": {
+    "canonicalName": "Basa",
+    "family": "nic-knj",
+    "wikidata_item": "Q4866154"
+  },
+  "nic-bbe": {
+    "canonicalName": "Eastern Beboid",
+    "family": "nic-beb"
+  },
+  "nic-bco": {
+    "canonicalName": "Benue-Congo",
+    "family": "nic-vco",
+    "wikidata_item": "Q33253"
+  },
+  "nic-bcr": {
+    "canonicalName": "Bantoid-Cross",
+    "family": "nic-bco",
+    "wikidata_item": "Q806983"
+  },
+  "nic-bdn": {
+    "canonicalName": "Northern Bantoid",
+    "aliases": "{\"North Bantoid\""
+  },
+  "nic-bds": {
+    "canonicalName": "Southern Bantoid",
+    "aliases": "{\"Wide Bantu\""
+  },
+  "nic-beb": {
+    "canonicalName": "Beboid",
+    "family": "nic-bds",
+    "wikidata_item": "Q813549"
+  },
+  "nic-ben": {
+    "canonicalName": "Bendi",
+    "family": "nic-bcr",
+    "wikidata_item": "Q4887065"
+  },
+  "nic-beo": {
+    "canonicalName": "Beromic",
+    "family": "nic-plt",
+    "wikidata_item": "Q4894642"
+  },
+  "nic-bod": {
+    "canonicalName": "Bantoid",
+    "family": "nic-bcr",
+    "wikidata_item": "Q806992"
+  },
+  "nic-buk": {
+    "canonicalName": "Buli-Koma",
+    "family": "nic-ovo"
+  },
+  "nic-bwa": {
+    "canonicalName": "Bwa",
+    "otherNames": "{\"Bwamu\""
+  },
+  "nic-cde": {
+    "canonicalName": "Central Delta",
+    "family": "nic-cri",
+    "wikidata_item": "Q3813191"
+  },
+  "nic-cri": {
+    "canonicalName": "Cross River",
+    "family": "nic-bcr",
+    "wikidata_item": "Q1141096"
+  },
+  "nic-dag": {
+    "canonicalName": "Dagbani",
+    "family": "nic-wov"
+  },
+  "nic-dak": {
+    "canonicalName": "Dakoid",
+    "family": "nic-bdn",
+    "wikidata_item": "Q1157745"
+  },
+  "nic-dge": {
+    "canonicalName": "Escarpment Dogon",
+    "family": "qfa-dgn",
+    "wikidata_item": "Q5397128"
+  },
+  "nic-dgw": {
+    "canonicalName": "West Dogon",
+    "family": "qfa-dgn"
+  },
+  "nic-eko": {
+    "canonicalName": "Ekoid",
+    "family": "nic-bds",
+    "wikidata_item": "Q1323395"
+  },
+  "nic-eov": {
+    "canonicalName": "Eastern Oti-Volta",
+    "family": "nic-ovo",
+    "aliases": "{\"Samba\""
+  },
+  "nic-fru": {
+    "canonicalName": "Furu",
+    "family": "nic-bds",
+    "wikidata_item": "Q5509783"
+  },
+  "nic-gne": {
+    "canonicalName": "Eastern Gurunsi",
+    "aliases": "{\"Eastern Grũsi\""
+  },
+  "nic-gnn": {
+    "canonicalName": "Northern Gurunsi",
+    "aliases": "{\"Northern Grũsi\""
+  },
+  "nic-gnw": {
+    "canonicalName": "Western Gurunsi",
+    "aliases": "{\"Western Grũsi\""
+  },
+  "nic-gns": {
+    "canonicalName": "Gurunsi",
+    "aliases": "{\"Grũsi\""
+  },
+  "nic-gre": {
+    "canonicalName": "Eastern Grassfields",
+    "family": "nic-grf",
+    "wikidata_item": "Q5330160"
+  },
+  "nic-grf": {
+    "canonicalName": "Grassfields",
+    "aliases": "{\"Grassfields Bantu\""
+  },
+  "nic-grm": {
+    "canonicalName": "Gurma",
+    "family": "nic-ovo",
+    "wikidata_item": "Q30587833"
+  },
+  "nic-grs": {
+    "canonicalName": "Southwest Grassfields",
+    "family": "nic-grf",
+    "wikidata_item": "Q7571285"
+  },
+  "nic-gur": {
+    "canonicalName": "Gur",
+    "aliases": "{\"Voltaic\""
+  },
+  "nic-ief": {
+    "canonicalName": "Ibibio-Efik",
+    "family": "nic-lcr",
+    "wikidata_item": "Q2743643"
+  },
+  "nic-jer": {
+    "canonicalName": "Jera",
+    "family": "nic-kne"
+  },
+  "nic-jkn": {
+    "canonicalName": "Jukunoid",
+    "family": "nic-pla",
+    "wikidata_item": "Q1711622"
+  },
+  "nic-jrn": {
+    "canonicalName": "Jarawan",
+    "family": "nic-mba",
+    "wikidata_item": "Q1683430"
+  },
+  "nic-jrw": {
+    "canonicalName": "Jarawa",
+    "family": "nic-jrn",
+    "wikidata_item": "Q35423"
+  },
+  "nic-kam": {
+    "canonicalName": "Kambari",
+    "family": "nic-knj",
+    "wikidata_item": "Q6356294"
+  },
+  "nic-ktl": {
+    "canonicalName": "Katloid",
+    "aliases": "{\"Katla\""
+  },
+  "nic-kau": {
+    "canonicalName": "Kauru",
+    "family": "nic-kne"
+  },
+  "nic-kmk": {
+    "canonicalName": "Kamuku",
+    "family": "nic-knj",
+    "wikidata_item": "Q6359821"
+  },
+  "nic-kne": {
+    "canonicalName": "East Kainji",
+    "family": "nic-knj",
+    "wikidata_item": "Q5328687"
+  },
+  "nic-knj": {
+    "canonicalName": "Kainji",
+    "family": "nic-pla",
+    "wikidata_item": "Q681495"
+  },
+  "nic-knn": {
+    "canonicalName": "Northwest Kainji",
+    "family": "nic-knj",
+    "wikidata_item": "Q7060098"
+  },
+  "nic-lcr": {
+    "canonicalName": "Lower Cross River",
+    "family": "nic-cri",
+    "wikidata_item": "Q3813193"
+  },
+  "nic-mam": {
+    "canonicalName": "Mamfe",
+    "aliases": "{\"Nyang\""
+  },
+  "nic-mba": {
+    "canonicalName": "Mbam",
+    "family": "nic-bds",
+    "wikidata_item": "Q687826"
+  },
+  "nic-mbc": {
+    "canonicalName": "Mba",
+    "family": "nic-ubg",
+    "wikidata_item": "Q6799561"
+  },
+  "nic-mbw": {
+    "canonicalName": "West Mbam",
+    "family": "nic-mba"
+  },
+  "nic-mmb": {
+    "canonicalName": "Mambiloid",
+    "otherNames": "{\"North Bantoid\""
+  },
+  "nic-mom": {
+    "canonicalName": "Momo",
+    "family": "nic-grf",
+    "wikidata_item": "Q6897393"
+  },
+  "nic-mre": {
+    "canonicalName": "Moré",
+    "family": "nic-wov"
+  },
+  "nic-ngd": {
+    "canonicalName": "Ngbandi",
+    "family": "nic-ubg",
+    "wikidata_item": "Q36439"
+  },
+  "nic-nge": {
+    "canonicalName": "Ngemba",
+    "family": "nic-gre",
+    "wikidata_item": "Q7022271"
+  },
+  "nic-ngk": {
+    "canonicalName": "Ngbaka",
+    "family": "nic-ubg",
+    "wikidata_item": "Q3217499"
+  },
+  "nic-nin": {
+    "canonicalName": "Ninzic",
+    "family": "nic-plt",
+    "wikidata_item": "Q7039282"
+  },
+  "nic-nka": {
+    "canonicalName": "Nkambe",
+    "family": "nic-gre",
+    "wikidata_item": "Q7042520"
+  },
+  "nic-nkb": {
+    "canonicalName": "Baka",
+    "family": "nic-nkw"
+  },
+  "nic-nke": {
+    "canonicalName": "Eastern Ngbaka",
+    "family": "nic-ngk"
+  },
+  "nic-nkg": {
+    "canonicalName": "Gbanziri",
+    "family": "nic-nkw"
+  },
+  "nic-nkk": {
+    "canonicalName": "Kpala",
+    "family": "nic-nkw"
+  },
+  "nic-nkm": {
+    "canonicalName": "Mbaka",
+    "family": "nic-nkw"
+  },
+  "nic-nkw": {
+    "canonicalName": "Western Ngbaka",
+    "family": "nic-ngk"
+  },
+  "nic-npd": {
+    "canonicalName": "North Plateau Dogon",
+    "family": "qfa-dgn"
+  },
+  "nic-nun": {
+    "canonicalName": "Nun",
+    "family": "nic-gre",
+    "wikidata_item": "Q13654297"
+  },
+  "nic-nwa": {
+    "canonicalName": "Nanga-Walo",
+    "family": "qfa-dgn"
+  },
+  "nic-ogo": {
+    "canonicalName": "Ogoni",
+    "aliases": "{\"Ogonoid\""
+  },
+  "nic-ovo": {
+    "canonicalName": "Oti-Volta",
+    "family": "nic-gur",
+    "wikidata_item": "Q1157178"
+  },
+  "nic-pla": {
+    "canonicalName": "Platoid",
+    "aliases": "{\"Central Nigerian\""
+  },
+  "nic-plc": {
+    "canonicalName": "Central Plateau",
+    "family": "nic-plt",
+    "wikidata_item": "Q5061668"
+  },
+  "nic-pld": {
+    "canonicalName": "Plains Dogon",
+    "family": "qfa-dgn"
+  },
+  "nic-ple": {
+    "canonicalName": "East Plateau",
+    "family": "nic-plt",
+    "wikidata_item": "Q5329154"
+  },
+  "nic-pls": {
+    "canonicalName": "South Plateau",
+    "aliases": "{\"Jilic-Eggonic\""
+  },
+  "nic-plt": {
+    "canonicalName": "Plateau",
+    "family": "nic-pla",
+    "wikidata_item": "Q1267471"
+  },
+  "nic-ras": {
+    "canonicalName": "Rashad",
+    "family": "nic",
+    "wikidata_item": "Q3401986"
+  },
+  "nic-rnc": {
+    "canonicalName": "Central Ring",
+    "family": "nic-rng"
+  },
+  "nic-rng": {
+    "canonicalName": "Ring",
+    "aliases": "{\"Ring Road\""
+  },
+  "nic-rnn": {
+    "canonicalName": "Northern Ring",
+    "family": "nic-rng"
+  },
+  "nic-rnw": {
+    "canonicalName": "Western Ring",
+    "family": "nic-rng"
+  },
+  "nic-ser": {
+    "canonicalName": "Sere",
+    "family": "nic-ubg",
+    "wikidata_item": "Q7453058"
+  },
+  "nic-shi": {
+    "canonicalName": "Shiroro",
+    "aliases": "{\"Pongu\""
+  },
+  "nic-sis": {
+    "canonicalName": "Sisaala",
+    "family": "nic-gnw",
+    "wikidata_item": "Q36532"
+  },
+  "nic-tar": {
+    "canonicalName": "Tarokoid",
+    "family": "nic-plt",
+    "wikidata_item": "Q2394472"
+  },
+  "nic-tiv": {
+    "canonicalName": "Tivoid",
+    "family": "nic-bds",
+    "wikidata_item": "Q752377"
+  },
+  "nic-tvc": {
+    "canonicalName": "Central Tivoid",
+    "family": "nic-tiv"
+  },
+  "nic-tvn": {
+    "canonicalName": "Northern Tivoid",
+    "family": "nic-tiv"
+  },
+  "nic-ubg": {
+    "canonicalName": "Ubangian",
+    "family": "nic-vco",
+    "wikidata_item": "Q33932"
+  },
+  "nic-uce": {
+    "canonicalName": "East-West Upper Cross River",
+    "family": "nic-ucr"
+  },
+  "nic-ucn": {
+    "canonicalName": "North-South Upper Cross River",
+    "family": "nic-ucr"
+  },
+  "nic-ucr": {
+    "canonicalName": "Upper Cross River",
+    "aliases": "{\"Upper Cross\""
+  },
+  "nic-vco": {
+    "canonicalName": "Volta-Congo",
+    "family": "alv",
+    "wikidata_item": "Q37228"
+  },
+  "nic-wov": {
+    "canonicalName": "Western Oti-Volta",
+    "family": "nic-ovo",
+    "aliases": "{\"Moré-Dagbani\""
+  },
+  "nic-ykb": {
+    "canonicalName": "Yukubenic",
+    "aliases": "{\"Oohum\""
+  },
+  "nic-ymb": {
+    "canonicalName": "Yambasa",
+    "family": "nic-mba"
+  },
+  "nic-yon": {
+    "canonicalName": "Yom-Nawdm",
+    "family": "nic-ovo",
+    "aliases": "{\"Moré-Dagbani\""
+  },
+  "nub-hil": {
+    "canonicalName": "Hill Nubian",
+    "family": "nub",
+    "wikidata_item": "Q5762211",
+    "aliases": "{\"Kordofan Nubian\""
+  },
+  "omq-cha": {
+    "canonicalName": "Chatino",
+    "family": "omq-zap",
+    "wikidata_item": "Q35111"
+  },
+  "omq-chi": {
+    "canonicalName": "Chinantecan",
+    "family": "omq",
+    "wikidata_item": "Q35828"
+  },
+  "omq-cui": {
+    "canonicalName": "Cuicatec",
+    "family": "omq-mix",
+    "wikidata_item": "Q616024"
+  },
+  "omq-maz": {
+    "canonicalName": "Mazatecan",
+    "aliases": "{\"Mazatec\""
+  },
+  "omq-mix": {
+    "canonicalName": "Mixtecan",
+    "family": "omq",
+    "wikidata_item": "Q21996392"
+  },
+  "omq-mxt": {
+    "canonicalName": "Mixtec",
+    "family": "omq-mix",
+    "wikidata_item": "Q36363"
+  },
+  "omq-otp": {
+    "canonicalName": "Oto-Pamean",
+    "family": "omq"
+  },
+  "omq-pop": {
+    "canonicalName": "Popolocan",
+    "family": "omq",
+    "wikidata_item": "Q5132273"
+  },
+  "omq-tri": {
+    "canonicalName": "Trique",
+    "aliases": "{\"Triqui\""
+  },
+  "omq-zap": {
+    "canonicalName": "Zapotecan",
+    "family": "omq",
+    "wikidata_item": "Q8066463"
+  },
+  "omq-zpc": {
+    "canonicalName": "Zapotec",
+    "family": "omq-zap",
+    "wikidata_item": "Q13214"
+  },
+  "omv-aro": {
+    "canonicalName": "Aroid",
+    "family": "omv",
+    "wikidata_item": "Q3699526",
+    "aliases": "{\"Ari-Banna\""
+  },
+  "omv-diz": {
+    "canonicalName": "Dizoid",
+    "family": "omv",
+    "wikidata_item": "Q430251",
+    "aliases": "{\"Maji\""
+  },
+  "omv-eom": {
+    "canonicalName": "East Ometo",
+    "family": "omv-ome",
+    "wikidata_item": "Q20527288"
+  },
+  "omv-gon": {
+    "canonicalName": "Gonga",
+    "family": "omv",
+    "wikidata_item": "Q4143043",
+    "aliases": "{\"Kefoid\""
+  },
+  "omv-mao": {
+    "canonicalName": "Mao",
+    "family": "omv",
+    "wikidata_item": "Q1351495"
+  },
+  "omv-nom": {
+    "canonicalName": "North Ometo",
+    "family": "omv-ome"
+  },
+  "omv-ome": {
+    "canonicalName": "Ometo",
+    "family": "omv",
+    "wikidata_item": "Q36310"
+  },
+  "oto-otm": {
+    "canonicalName": "Otomi",
+    "family": "oto"
+  },
+  "paa-arf": {
+    "canonicalName": "Arafundi",
+    "wikidata_item": "Q4783702"
+  },
+  "paa-asa": {
+    "canonicalName": "Arai-Samaia",
+    "wikidata_item": "Q48803569"
+  },
+  "paa-bng": {
+    "canonicalName": "Baining",
+    "wikidata_item": "Q748487",
+    "aliases": "{\"East New Britain\""
+  },
+  "paa-brd": {
+    "canonicalName": "Border",
+    "wikidata_item": "Q1752158",
+    "aliases": "{\"Upper Tami\""
+  },
+  "paa-egb": {
+    "canonicalName": "East Geelvink Bay",
+    "wikidata_item": "Q1497678",
+    "aliases": "{\"East Cenderawasih\""
+  },
+  "paa-eng": {
+    "canonicalName": "Engan",
+    "wikidata_item": "Q3217449"
+  },
+  "paa-iwm": {
+    "canonicalName": "Iwam",
+    "wikidata_item": "Q15147853"
+  },
+  "paa-kag": {
+    "canonicalName": "Kainantu-Goroka",
+    "family": "ngf",
+    "wikidata_item": "Q3217463"
+  },
+  "paa-kiw": {
+    "canonicalName": "Kiwaian",
+    "wikidata_item": "Q338449"
+  },
+  "paa-kut": {
+    "canonicalName": "Kutubuan",
+    "family": "paa-pag",
+    "wikidata_item": "Q48767893"
+  },
+  "paa-kwm": {
+    "canonicalName": "Kwomtari",
+    "wikidata_item": "Q2075415"
+  },
+  "paa-lkp": {
+    "canonicalName": "Lakes Plain",
+    "wikidata_item": "Q6478969"
+  },
+  "paa-lsp": {
+    "canonicalName": "Lower Sepik",
+    "aliases": "{\"Nor-Pondo\""
+  },
+  "paa-mai": {
+    "canonicalName": "Mairasi",
+    "wikidata_item": "Q6736896"
+  },
+  "paa-msk": {
+    "canonicalName": "Sko",
+    "aliases": "{\"Skou\""
+  },
+  "paa-nbo": {
+    "canonicalName": "North Bougainville",
+    "wikidata_item": "Q749496"
+  },
+  "paa-nim": {
+    "canonicalName": "Nimboran",
+    "wikidata_item": "Q12638426"
+  },
+  "paa-pag": {
+    "canonicalName": "Papuan Gulf",
+    "wikidata_item": "Q48803685"
+  },
+  "paa-pau": {
+    "canonicalName": "Pauwasi",
+    "wikidata_item": "Q7155496"
+  },
+  "paa-ram": {
+    "canonicalName": "Ramu",
+    "wikidata_item": "Q3442808"
+  },
+  "paa-sbo": {
+    "canonicalName": "South Bougainville",
+    "wikidata_item": "Q3217380"
+  },
+  "paa-sen": {
+    "canonicalName": "Sentani",
+    "family": "paa-wpa",
+    "wikidata_item": "Q17044584"
+  },
+  "paa-spk": {
+    "canonicalName": "Sepik",
+    "wikidata_item": "Q3508772"
+  },
+  "paa-tkw": {
+    "canonicalName": "Tor-Kwerba",
+    "wikidata_item": "Q7827523"
+  },
+  "paa-wpa": {
+    "canonicalName": "West Papuan",
+    "wikidata_item": "Q1363026"
+  },
+  "paa-yam": {
+    "canonicalName": "Yam",
+    "aliases": "{\"Morehead and Upper Maro River\""
+  },
+  "paa-yua": {
+    "canonicalName": "Yuat",
+    "wikidata_item": "Q8060096"
+  },
+  "phi-kal": {
+    "canonicalName": "Kalamian",
+    "aliases": "{\"Calamian\""
+  },
+  "poz-aay": {
+    "canonicalName": "Admiralty Islands",
+    "family": "poz-oce",
+    "wikidata_item": "Q2701306"
+  },
+  "poz-bnn": {
+    "canonicalName": "North Bornean",
+    "family": "poz-bop",
+    "wikidata_item": "Q1427907"
+  },
+  "poz-bop": {
+    "canonicalName": "Borneo-Philippines",
+    "family": "poz",
+    "wikidata_item": "Q4273393"
+  },
+  "poz-bre": {
+    "canonicalName": "East Barito",
+    "family": "poz-bop",
+    "wikidata_item": "Q2701314"
+  },
+  "poz-brw": {
+    "canonicalName": "West Barito",
+    "family": "poz-bop",
+    "wikidata_item": "Q2761679"
+  },
+  "poz-btk": {
+    "canonicalName": "Bungku-Tolaki",
+    "family": "poz-clb",
+    "wikidata_item": "Q3217381"
+  },
+  "poz-cet": {
+    "canonicalName": "Central-Eastern Malayo-Polynesian",
+    "family": "poz",
+    "wikidata_item": "Q2269883"
+  },
+  "poz-clb": {
+    "canonicalName": "Celebic",
+    "family": "poz-sus",
+    "wikidata_item": "Q1078041"
+  },
+  "poz-cln": {
+    "canonicalName": "New Caledonian",
+    "family": "poz-occ",
+    "wikidata_item": "Q3091221"
+  },
+  "poz-cma": {
+    "canonicalName": "Central Maluku",
+    "family": "poz-cet",
+    "wikidata_item": "Q3217479"
+  },
+  "poz-hce": {
+    "canonicalName": "Halmahera-Cenderawasih",
+    "family": "pqe",
+    "wikidata_item": "Q2526616"
+  },
+  "poz-kal": {
+    "canonicalName": "Kaili-Pamona",
+    "family": "poz-clb",
+    "wikidata_item": "Q3217465"
+  },
+  "poz-lgx": {
+    "canonicalName": "Lampungic",
+    "family": "poz-sus",
+    "wikidata_item": "Q49215"
+  },
+  "poz-mcm": {
+    "canonicalName": "Malayo-Chamic",
+    "family": "poz-msa"
+  },
+  "poz-mic": {
+    "canonicalName": "Micronesian",
+    "family": "poz-occ",
+    "wikidata_item": "Q420591"
+  },
+  "poz-mly": {
+    "canonicalName": "Malayic",
+    "family": "poz-mcm",
+    "wikidata_item": "Q662628"
+  },
+  "poz-msa": {
+    "canonicalName": "Malayo-Sumbawan",
+    "family": "poz-sus",
+    "wikidata_item": "Q1363818"
+  },
+  "poz-mun": {
+    "canonicalName": "Muna-Buton",
+    "family": "poz-clb",
+    "wikidata_item": "Q3037924"
+  },
+  "poz-nws": {
+    "canonicalName": "Northwest Sumatran",
+    "family": "poz-sus",
+    "wikidata_item": "Q2071308"
+  },
+  "poz-occ": {
+    "canonicalName": "Central-Eastern Oceanic",
+    "family": "poz-oce",
+    "wikidata_item": "Q2068435"
+  },
+  "poz-oce": {
+    "canonicalName": "Oceanic",
+    "family": "pqe",
+    "wikidata_item": "Q324457"
+  },
+  "poz-ocw": {
+    "canonicalName": "Western Oceanic",
+    "family": "poz-oce",
+    "wikidata_item": "Q2701282"
+  },
+  "poz-pep": {
+    "canonicalName": "Eastern Polynesian",
+    "family": "poz-pnp",
+    "wikidata_item": "Q390979"
+  },
+  "poz-pnp": {
+    "canonicalName": "Nuclear Polynesian",
+    "family": "poz-pol",
+    "wikidata_item": "Q743851"
+  },
+  "poz-pol": {
+    "canonicalName": "Polynesian",
+    "family": "poz-occ",
+    "wikidata_item": "Q390979"
+  },
+  "poz-san": {
+    "canonicalName": "Sabahan",
+    "family": "poz-bnn",
+    "wikidata_item": "Q3217517"
+  },
+  "poz-sbj": {
+    "canonicalName": "Sama-Bajaw",
+    "family": "poz-bop",
+    "wikidata_item": "Q2160409"
+  },
+  "poz-slb": {
+    "canonicalName": "Saluan-Banggai",
+    "family": "poz-clb",
+    "wikidata_item": "Q3217519"
+  },
+  "poz-sls": {
+    "canonicalName": "Southeast Solomonic",
+    "family": "poz-occ",
+    "wikidata_item": "Q3119671"
+  },
+  "poz-ssw": {
+    "canonicalName": "South Sulawesi",
+    "family": "poz-sus",
+    "wikidata_item": "Q2778190"
+  },
+  "poz-sus": {
+    "canonicalName": "Sunda-Sulawesi",
+    "family": "poz",
+    "wikidata_item": "Q319552"
+  },
+  "poz-swa": {
+    "canonicalName": "North Sarawakan",
+    "family": "poz-bnn",
+    "wikidata_item": "Q538569"
+  },
+  "poz-tim": {
+    "canonicalName": "Timoric",
+    "family": "poz-cet",
+    "wikidata_item": "Q7806987"
+  },
+  "poz-tot": {
+    "canonicalName": "Tomini-Tolitoli",
+    "family": "poz-clb",
+    "wikidata_item": "Q3217541"
+  },
+  "poz-vnc": {
+    "canonicalName": "North-Central Vanuatu",
+    "family": "poz-occ",
+    "wikidata_item": "Q3039118"
+  },
+  "poz-wot": {
+    "canonicalName": "Wotu-Wolio",
+    "family": "poz-clb",
+    "wikidata_item": "Q1041317"
+  },
+  "qfa-adc": {
+    "canonicalName": "Central Great Andamanese",
+    "family": "qfa-adm"
+  },
+  "qfa-adm": {
+    "canonicalName": "Great Andamanese",
+    "wikidata_item": "Q3515103"
+  },
+  "qfa-adn": {
+    "canonicalName": "Northern Great Andamanese",
+    "family": "qfa-adm"
+  },
+  "qfa-ads": {
+    "canonicalName": "Southern Great Andamanese",
+    "family": "qfa-adm"
+  },
+  "qfa-buy": {
+    "canonicalName": "Buyang",
+    "family": "qfa-kra"
+  },
+  "qfa-cka": {
+    "canonicalName": "Chukotko-Kamchatkan",
+    "wikidata_item": "Q33255"
+  },
+  "qfa-dgn": {
+    "canonicalName": "Dogon",
+    "family": "nic",
+    "wikidata_item": "Q1234776"
+  },
+  "qfa-dny": {
+    "canonicalName": "Dene-Yeniseian",
+    "aliases": "{\"Dené-Yeniseian\""
+  },
+  "qfa-gel": {
+    "canonicalName": "Gelao",
+    "family": "qfa-kra"
+  },
+  "qfa-hur": {
+    "canonicalName": "Hurro-Urartian",
+    "wikidata_item": "Q1144159"
+  },
+  "qfa-iso": {
+    "canonicalName": "isolate",
+    "family": "qfa-not",
+    "wikidata_item": "Q33648"
+  },
+  "qfa-kad": {
+    "canonicalName": "Kadu",
+    "wikidata_item": "Q1720989"
+  },
+  "qfa-kms": {
+    "canonicalName": "Kam-Sui",
+    "family": "qfa-tak",
+    "wikidata_item": "Q1023641"
+  },
+  "qfa-kor": {
+    "canonicalName": "Korean",
+    "wikidata_item": "Q11263525"
+  },
+  "qfa-kra": {
+    "canonicalName": "Kra",
+    "family": "qfa-tak",
+    "wikidata_item": "Q1022087"
+  },
+  "qfa-lic": {
+    "canonicalName": "Hlai",
+    "protoLanguage": "qfa-lic-pro",
+    "aliases": "{\"Hlaic\""
+  },
+  "qfa-mal": {
+    "canonicalName": "Left May",
+    "family": "paa-asa",
+    "wikidata_item": "Q614468"
+  },
+  "qfa-mch": {
+    "canonicalName": "Macro-Chibchan",
+    "wikidata_item": "Q3438062"
+  },
+  "qfa-mix": {
+    "canonicalName": "mixed",
+    "family": "qfa-not",
+    "wikidata_item": "Q33694"
+  },
+  "qfa-not": {
+    "canonicalName": "not a family",
+    "family": "qfa-not"
+  },
+  "qfa-onb": {
+    "canonicalName": "Ong-Be",
+    "protoLanguage": "qfa-onb-pro",
+    "aliases": "{\"Be\""
+  },
+  "qfa-ong": {
+    "canonicalName": "Ongan",
+    "aliases": "{\"Angan\""
+  },
+  "qfa-sub": {
+    "canonicalName": "substrate",
+    "wikidata_item": "Q20730913"
+  },
+  "qfa-tak": {
+    "canonicalName": "Kra-Dai",
+    "aliases": "{\"Tai-Kadai\""
+  },
+  "qfa-tap": {
+    "canonicalName": "Timor-Alor-Pantar",
+    "wikidata_item": "Q16590002"
+  },
+  "qfa-tor": {
+    "canonicalName": "Torricelli",
+    "wikidata_item": "Q1333831"
+  },
+  "qfa-tyn": {
+    "canonicalName": "Tyrsenian",
+    "wikidata_item": "Q1344038"
+  },
+  "qfa-yen": {
+    "canonicalName": "Yeniseian",
+    "aliases": "{\"Yeniseic\""
+  },
+  "qfa-yuk": {
+    "canonicalName": "Yukaghir",
+    "aliases": "{\"Yukagir\""
+  },
+  "roa-eas": {
+    "canonicalName": "Eastern Romance",
+    "family": "roa",
+    "wikidata_item": "Q147576"
+  },
+  "roa-ibe": {
+    "canonicalName": "West Iberian",
+    "family": "roa",
+    "wikidata_item": "Q1377152"
+  },
+  "roa-itd": {
+    "canonicalName": "Italo-Dalmatian",
+    "family": "roa",
+    "wikidata_item": "Q3313381"
+  },
+  "roa-git": {
+    "canonicalName": "Gallo-Italic",
+    "family": "roa",
+    "wikidata_item": "Q516074"
+  },
+  "roa-oil": {
+    "canonicalName": "Oïl",
+    "protoLanguage": "fro",
+    "family": "roa",
+    "wikidata_item": "Q37351"
+  },
+  "roa-rhe": {
+    "canonicalName": "Rhaeto-Romance",
+    "family": "roa",
+    "wikidata_item": "Q515593"
+  },
+  "sai-ara": {
+    "canonicalName": "Araucanian",
+    "wikidata_item": "Q626630"
+  },
+  "sai-aym": {
+    "canonicalName": "Aymaran",
+    "wikidata_item": "Q33010"
+  },
+  "sai-bar": {
+    "canonicalName": "Barbacoan",
+    "aliases": "{\"Barbakoan\""
+  },
+  "sai-bor": {
+    "canonicalName": "Boran",
+    "wikidata_item": "Q43079266"
+  },
+  "sai-cah": {
+    "canonicalName": "Cahuapanan",
+    "wikidata_item": "Q1025793"
+  },
+  "sai-car": {
+    "canonicalName": "Cariban",
+    "aliases": "{\"Carib\""
+  },
+  "sai-chc": {
+    "canonicalName": "Chocoan",
+    "aliases": "{\"Choco\""
+  },
+  "sai-cho": {
+    "canonicalName": "Chonan",
+    "aliases": "{\"Chon\""
+  },
+  "sai-cpc": {
+    "canonicalName": "Chapacuran",
+    "wikidata_item": "Q1062626"
+  },
+  "sai-crn": {
+    "canonicalName": "Charruan",
+    "aliases": "{\"Charrúan\""
+  },
+  "sai-ctc": {
+    "canonicalName": "Catacaoan",
+    "wikidata_item": "Q5051139"
+  },
+  "sai-guc": {
+    "canonicalName": "Guaicuruan",
+    "aliases": "{\"Guaicurú\""
+  },
+  "sai-guh": {
+    "canonicalName": "Guahiban",
+    "aliases": "{\"Guahiboan\""
+  },
+  "sai-har": {
+    "canonicalName": "Harákmbut",
+    "aliases": "{\"Harákmbet\""
+  },
+  "sai-hkt": {
+    "canonicalName": "Harákmbut-Katukinan",
+    "wikidata_item": "Q17107635"
+  },
+  "sai-hrp": {
+    "canonicalName": "Huarpean",
+    "aliases": "{\"Warpean\""
+  },
+  "sai-jee": {
+    "canonicalName": "Jê",
+    "aliases": "{\"Gê\""
+  },
+  "sai-jir": {
+    "canonicalName": "Jirajaran",
+    "aliases": "{\"Hiraháran\""
+  },
+  "sai-jiv": {
+    "canonicalName": "Jivaroan",
+    "aliases": "{\"Hívaro\""
+  },
+  "sai-ktk": {
+    "canonicalName": "Katukinan",
+    "aliases": "{\"Catuquinan\""
+  },
+  "sai-mas": {
+    "canonicalName": "Mascoian",
+    "aliases": "{\"Mascoyan\""
+  },
+  "sai-mgc": {
+    "canonicalName": "Mataco-Guaicuru",
+    "wikidata_item": "Q255512"
+  },
+  "sai-mje": {
+    "canonicalName": "Macro-Jê",
+    "aliases": "{\"Macro-Gê\""
+  },
+  "sai-mtc": {
+    "canonicalName": "Matacoan",
+    "family": "sai-mgc",
+    "wikidata_item": "Q2447424"
+  },
+  "sai-mur": {
+    "canonicalName": "Muran",
+    "aliases": "{\"Mura\""
+  },
+  "sai-nad": {
+    "canonicalName": "Nadahup",
+    "aliases": "{\"Makú\""
+  },
+  "sai-nmk": {
+    "canonicalName": "Nambikwaran",
+    "aliases": "{\"Nambicuaran\""
+  },
+  "sai-otm": {
+    "canonicalName": "Otomacoan",
+    "aliases": "{\"Otomákoan\""
+  },
+  "sai-pan": {
+    "canonicalName": "Panoan",
+    "aliases": "{\"Pano\""
+  },
+  "sai-pat": {
+    "canonicalName": "Pano-Tacanan",
+    "aliases": "{\"Pano-Tacana\""
+  },
+  "sai-tac": {
+    "canonicalName": "Tacanan",
+    "family": "sai-pat",
+    "wikidata_item": "Q3113762"
+  },
+  "sai-tuc": {
+    "canonicalName": "Tucanoan",
+    "wikidata_item": "Q788144"
+  },
+  "sai-tyu": {
+    "canonicalName": "Ticuna-Yuri",
+    "wikidata_item": "Q4467010"
+  },
+  "sai-ucp": {
+    "canonicalName": "Uru-Chipaya",
+    "aliases": "{\"Uru-Chipayan\""
+  },
+  "sai-wic": {
+    "canonicalName": "Wichí",
+    "wikidata_item": "Q3027047"
+  },
+  "sai-wit": {
+    "canonicalName": "Witotoan",
+    "aliases": "{\"Huitotoan\""
+  },
+  "sai-ynm": {
+    "canonicalName": "Yanomami",
+    "aliases": "{\"Yanomam\""
+  },
+  "sai-zam": {
+    "canonicalName": "Zamucoan",
+    "aliases": "{\"Samúkoan\""
+  },
+  "sai-zap": {
+    "canonicalName": "Zaparoan",
+    "aliases": "{\"Záparoan\""
+  },
+  "sdv-bri": {
+    "canonicalName": "Bari",
+    "family": "sdv-nie"
+  },
+  "sdv-daj": {
+    "canonicalName": "Daju",
+    "family": "sdv",
+    "wikidata_item": "Q956724"
+  },
+  "sdv-dnu": {
+    "canonicalName": "Dinka-Nuer",
+    "family": "sdv-niw"
+  },
+  "sdv-eje": {
+    "canonicalName": "Eastern Jebel",
+    "family": "sdv",
+    "wikidata_item": "Q3408878"
+  },
+  "sdv-kln": {
+    "canonicalName": "Kalenjin",
+    "family": "sdv-nis",
+    "wikidata_item": "Q637228"
+  },
+  "sdv-lma": {
+    "canonicalName": "Lotuko-Maa",
+    "family": "sdv-nie"
+  },
+  "sdv-lon": {
+    "canonicalName": "Northern Luo",
+    "family": "sdv-luo"
+  },
+  "sdv-los": {
+    "canonicalName": "Southern Luo",
+    "family": "sdv-luo",
+    "wikidata_item": "Q7570103"
+  },
+  "sdv-luo": {
+    "canonicalName": "Luo",
+    "family": "sdv-niw"
+  },
+  "sdv-nes": {
+    "canonicalName": "Northern Eastern Sudanic",
+    "family": "sdv",
+    "wikidata_item": "Q4810496",
+    "aliases": "{\"Astaboran\""
+  },
+  "sdv-nie": {
+    "canonicalName": "Eastern Nilotic",
+    "family": "sdv-nil",
+    "wikidata_item": "Q153795"
+  },
+  "sdv-nil": {
+    "canonicalName": "Nilotic",
+    "family": "sdv",
+    "wikidata_item": "Q513408"
+  },
+  "sdv-nis": {
+    "canonicalName": "Southern Nilotic",
+    "family": "sdv-nil",
+    "wikidata_item": "Q1552410"
+  },
+  "sdv-niw": {
+    "canonicalName": "Western Nilotic",
+    "family": "sdv-nil",
+    "wikidata_item": "Q3114989"
+  },
+  "sdv-nma": {
+    "canonicalName": "Nandi-Markweta",
+    "family": "sdv-kln"
+  },
+  "sdv-nyi": {
+    "canonicalName": "Nyima",
+    "family": "sdv-nes",
+    "wikidata_item": "Q11688746",
+    "aliases": "{\"Nyimang\""
+  },
+  "sdv-tmn": {
+    "canonicalName": "Taman",
+    "family": "sdv-nes",
+    "wikidata_item": "Q3408873",
+    "aliases": "{\"Tamaic\""
+  },
+  "sdv-ttu": {
+    "canonicalName": "Teso-Turkana",
+    "family": "sdv-nie",
+    "wikidata_item": "Q7705551",
+    "aliases": "{\"Ateker\""
+  },
+  "sem-ara": {
+    "canonicalName": "arámi",
+    "protoLanguage": "arc",
+    "family": "sem-nwe",
+    "wikidata_item": "Q28602"
+  },
+  "sem-arb": {
+    "canonicalName": "arab",
+    "protoLanguage": "ar",
+    "family": "sem-cen",
+    "wikidata_item": "Q164667"
+  },
+  "sem-are": {
+    "canonicalName": "Eastern Aramaic",
+    "family": "sem-ara",
+    "wikidata_item": "Q3410322"
+  },
+  "sem-arw": {
+    "canonicalName": "Western Aramaic",
+    "family": "sem-ara",
+    "wikidata_item": "Q3394214"
+  },
+  "sem-ase": {
+    "canonicalName": "Southeastern Aramaic",
+    "family": "sem-are",
+    "wikidata_item": "Q3410322"
+  },
+  "sem-can": {
+    "canonicalName": "Canaanite",
+    "family": "sem-nwe",
+    "wikidata_item": "Q747547"
+  },
+  "sem-cen": {
+    "canonicalName": "Central Semitic",
+    "family": "sem-wes",
+    "wikidata_item": "Q3433228"
+  },
+  "sem-cna": {
+    "canonicalName": "Central Neo-Aramaic",
+    "family": "sem-are",
+    "wikidata_item": "Q3410322"
+  },
+  "sem-eas": {
+    "canonicalName": "keleti sémi",
+    "family": "sem",
+    "wikidata_item": "Q164273"
+  },
+  "sem-eth": {
+    "canonicalName": "Ethiopian Semitic",
+    "aliases": "{\"Afro-Semitic\""
+  },
+  "sem-nna": {
+    "canonicalName": "Northeastern Neo-Aramaic",
+    "family": "sem-are",
+    "wikidata_item": "Q2560578"
+  },
+  "sem-nwe": {
+    "canonicalName": "Northwest Semitic",
+    "family": "sem-cen",
+    "wikidata_item": "Q162996"
+  },
+  "sem-osa": {
+    "canonicalName": "Old South Arabian",
+    "aliases": "{\"Epigraphic South Arabian\""
+  },
+  "sem-sar": {
+    "canonicalName": "South Arabian",
+    "aliases": "{\"Modern South Arabian\""
+  },
+  "sem-sou": {
+    "canonicalName": "déli sémi",
+    "family": "sem-wes",
+    "wikidata_item": "Q38890"
+  },
+  "sem-wes": {
+    "canonicalName": "nyugati sémi",
+    "family": "sem",
+    "wikidata_item": "Q124901"
+  },
+  "sgn-fsl": {
+    "canonicalName": "francia jelnyelv",
+    "family": "sgn",
+    "wikidata_item": "Q5501921"
+  },
+  "sgn-gsl": {
+    "canonicalName": "német jelnyelv",
+    "family": "sgn",
+    "wikidata_item": "Q5551235"
+  },
+  "sgn-jsl": {
+    "canonicalName": "japán jelnyelv",
+    "family": "sgn",
+    "wikidata_item": "Q11722508"
+  },
+  "sio-dhe": {
+    "canonicalName": "Dhegihan",
+    "family": "sio-msv",
+    "wikidata_item": "Q3217420"
+  },
+  "sio-dkt": {
+    "canonicalName": "Dakotan",
+    "family": "sio-msv",
+    "wikidata_item": "Q17188640"
+  },
+  "sio-mor": {
+    "canonicalName": "Missouri River Siouan",
+    "family": "sio",
+    "wikidata_item": "Q26807266"
+  },
+  "sio-msv": {
+    "canonicalName": "Mississippi Valley Siouan",
+    "family": "sio",
+    "wikidata_item": "Q17188638"
+  },
+  "sio-ohv": {
+    "canonicalName": "Ohio Valley Siouan",
+    "family": "sio",
+    "wikidata_item": "Q21070931"
+  },
+  "sit-aao": {
+    "canonicalName": "Ao",
+    "aliases": "{\"Central Naga languages\""
+  },
+  "sit-alm": {
+    "canonicalName": "Almora",
+    "family": "sit-whm"
+  },
+  "sit-bdi": {
+    "canonicalName": "Bodish",
+    "family": "sit",
+    "wikidata_item": "Q1814078"
+  },
+  "sit-dhi": {
+    "canonicalName": "Dhimalish",
+    "family": "sit",
+    "wikidata_item": "Q1207648"
+  },
+  "sit-ebo": {
+    "canonicalName": "East Bodish",
+    "family": "sit-bdi",
+    "wikidata_item": "Q56402"
+  },
+  "sit-gma": {
+    "canonicalName": "Greater Magaric",
+    "family": "sit",
+    "wikidata_item": "Q55612963"
+  },
+  "sit-gsi": {
+    "canonicalName": "Greater Siangic",
+    "family": "sit",
+    "wikidata_item": "Q52698851"
+  },
+  "sit-hrs": {
+    "canonicalName": "Hrusish",
+    "aliases": "{\"Southeast Kamengic\""
+  },
+  "sit-jnp": {
+    "canonicalName": "Jingphoic",
+    "aliases": "{\"Jingpho\""
+  },
+  "sit-jpl": {
+    "canonicalName": "Kachin-Luic",
+    "aliases": "{\"Jingpho-Luish\""
+  },
+  "sit-kch": {
+    "canonicalName": "Konyak-Chang",
+    "family": "sit-kon"
+  },
+  "sit-kha": {
+    "canonicalName": "Kham",
+    "family": "sit-gma",
+    "wikidata_item": "Q33305"
+  },
+  "sit-khb": {
+    "canonicalName": "Kho-Bwa",
+    "aliases": "{\"Bugunish\""
+  },
+  "sit-kic": {
+    "canonicalName": "Central Kiranti",
+    "family": "sit-kir"
+  },
+  "sit-kie": {
+    "canonicalName": "Eastern Kiranti",
+    "family": "sit-kir"
+  },
+  "sit-kin": {
+    "canonicalName": "Kinnauri",
+    "family": "sit-whm"
+  },
+  "sit-kir": {
+    "canonicalName": "Kiranti",
+    "family": "sit",
+    "wikidata_item": "Q922148"
+  },
+  "sit-kiw": {
+    "canonicalName": "Western Kiranti",
+    "family": "sit-kir",
+    "wikidata_item": "Q922148"
+  },
+  "sit-kon": {
+    "canonicalName": "Konyak",
+    "family": "tbq-bkj",
+    "wikidata_item": "Q774590"
+  },
+  "sit-kyk": {
+    "canonicalName": "Kyirong-Kagate",
+    "family": "sit-tib",
+    "wikidata_item": "Q6450957"
+  },
+  "sit-lab": {
+    "canonicalName": "Ladakhi-Balti",
+    "family": "sit-tib",
+    "wikidata_item": "Q6450957"
+  },
+  "sit-las": {
+    "canonicalName": "Lahuli-Spiti",
+    "family": "sit-tib",
+    "wikidata_item": "Q6473510"
+  },
+  "sit-luu": {
+    "canonicalName": "Luish",
+    "aliases": "{\"Asakian\""
+  },
+  "sit-mar": {
+    "canonicalName": "Maringic",
+    "family": "sit-tma"
+  },
+  "sit-mdz": {
+    "canonicalName": "Midzu",
+    "aliases": "{\"Geman\""
+  },
+  "sit-mnz": {
+    "canonicalName": "Mondzish",
+    "aliases": "{\"Mangish\""
+  },
+  "sit-mru": {
+    "canonicalName": "Mruic",
+    "aliases": "{\"Mru-Hkongso\""
+  },
+  "sit-nax": {
+    "canonicalName": "Naic",
+    "aliases": "{\"Naxish\""
+  },
+  "sit-new": {
+    "canonicalName": "Newaric",
+    "family": "sit",
+    "wikidata_item": "Q55625069"
+  },
+  "sit-nng": {
+    "canonicalName": "Nungish",
+    "aliases": "{\"Nung\""
+  },
+  "sit-qia": {
+    "canonicalName": "Qiangic",
+    "family": "tbq-buq",
+    "wikidata_item": "Q1636765"
+  },
+  "sit-rgy": {
+    "canonicalName": "Rgyalrongic",
+    "aliases": "{\"Jiarongic\""
+  },
+  "sit-tam": {
+    "canonicalName": "Tamangic",
+    "aliases": "{\"West Bodish\""
+  },
+  "sit-tan": {
+    "canonicalName": "Tani",
+    "family": "sit",
+    "wikidata_item": "Q3217538"
+  },
+  "sit-tib": {
+    "canonicalName": "Tibetic",
+    "family": "sit-bdi",
+    "wikidata_item": "Q1641150"
+  },
+  "sit-tja": {
+    "canonicalName": "Tujia",
+    "family": "sit"
+  },
+  "sit-tma": {
+    "canonicalName": "Tangkhul-Maring",
+    "family": "sit"
+  },
+  "sit-tng": {
+    "canonicalName": "Tangkhulic",
+    "aliases": "{\"Tangkhul\""
+  },
+  "sit-tno": {
+    "canonicalName": "Tangsa-Nocte",
+    "family": "sit-kon"
+  },
+  "sit-tsk": {
+    "canonicalName": "Tshangla",
+    "family": "sit-bdi"
+  },
+  "sit-whm": {
+    "canonicalName": "West Himalayish",
+    "family": "sit",
+    "wikidata_item": "Q2301695"
+  },
+  "sit-zem": {
+    "canonicalName": "Zeme",
+    "aliases": "{\"Zeliangrong\""
+  },
+  "ssa-fur": {
+    "canonicalName": "Fur",
+    "family": "ssa",
+    "wikidata_item": "Q2989512"
+  },
+  "ssa-klk": {
+    "canonicalName": "Kuliak",
+    "aliases": "{\"Rub\""
+  },
+  "ssa-kom": {
+    "canonicalName": "Koman",
+    "family": "ssa",
+    "wikidata_item": "Q1781084"
+  },
+  "ssa-sah": {
+    "canonicalName": "Saharan",
+    "family": "ssa",
+    "wikidata_item": "Q1757661"
+  },
+  "tai-wen": {
+    "canonicalName": "Wenma-Southwestern Tai",
+    "family": "tai"
+  },
+  "tai-tay": {
+    "canonicalName": "Tày",
+    "family": "tai-wen"
+  },
+  "tai-sap": {
+    "canonicalName": "Sapa-Southwestern Tai",
+    "aliases": "{\"Sapa-Thai\""
+  },
+  "tai-swe": {
+    "canonicalName": "Southwestern Tai",
+    "family": "tai-sap",
+    "wikidata_item": "Q3447105"
+  },
+  "tai-cho": {
+    "canonicalName": "Chongzuo Tai",
+    "family": "tai",
+    "wikidata_item": "Q13216"
+  },
+  "tai-cen": {
+    "canonicalName": "Central Tai",
+    "family": "tai",
+    "wikidata_item": "Q5061891"
+  },
+  "tai-nor": {
+    "canonicalName": "Northern Tai",
+    "family": "tai",
+    "wikidata_item": "Q7059014"
+  },
+  "tbq-anp": {
+    "canonicalName": "Angami-Pochuri",
+    "family": "sit",
+    "wikidata_item": "Q530460"
+  },
+  "tbq-bdg": {
+    "canonicalName": "Bodo-Garo",
+    "family": "tbq-bkj",
+    "wikidata_item": "Q4090000"
+  },
+  "tbq-bkj": {
+    "canonicalName": "Sal",
+    "family": "sit",
+    "aliases": "{\"Bodo-Konyak-Jinghpaw\""
+  },
+  "tbq-brm": {
+    "canonicalName": "Burmish",
+    "family": "tbq-lob",
+    "wikidata_item": "Q865713"
+  },
+  "tbq-buq": {
+    "canonicalName": "Burmo-Qiangic",
+    "family": "sit",
+    "wikidata_item": "Q16056278"
+  },
+  "tbq-kuk": {
+    "canonicalName": "Kukish",
+    "family": "sit",
+    "wikidata_item": "Q832413"
+  },
+  "tbq-lal": {
+    "canonicalName": "Lalo",
+    "family": "tbq-lol",
+    "wikidata_item": "Q56548"
+  },
+  "tbq-lob": {
+    "canonicalName": "Lolo-Burmese",
+    "family": "tbq-buq",
+    "wikidata_item": "Q1635712"
+  },
+  "tbq-lol": {
+    "canonicalName": "Loloish",
+    "family": "tbq-lob",
+    "wikidata_item": "Q37035"
+  },
+  "trk-kar": {
+    "canonicalName": "Karluk",
+    "aliases": "{\"Qarluq\""
+  },
+  "trk-kbu": {
+    "canonicalName": "Kipchak-Bulgar",
+    "aliases": "{\"Uralian\""
+  },
+  "trk-kcu": {
+    "canonicalName": "Kipchak-Cuman",
+    "aliases": "{\"Ponto-Caspian\""
+  },
+  "trk-kip": {
+    "canonicalName": "Kipchak",
+    "otherNames": "{\"Western Turkic\""
+  },
+  "trk-kno": {
+    "canonicalName": "Kipchak-Nogai",
+    "aliases": "{\"Aralo-Caspian\""
+  },
+  "trk-ogr": {
+    "canonicalName": "Oghur",
+    "aliases": "{\"Lir-Turkic\""
+  },
+  "trk-ogz": {
+    "canonicalName": "Oghuz",
+    "aliases": "{\"Southwestern Turkic\""
+  },
+  "trk-sib": {
+    "canonicalName": "Siberian Turkic",
+    "otherNames": "{\"Northern Turkic\""
+  },
+  "tup-gua": {
+    "canonicalName": "Tupi-Guarani",
+    "aliases": "{\"Tupí-Guaraní\""
+  },
+  "urj-mdv": {
+    "canonicalName": "Mordvinic",
+    "family": "urj",
+    "wikidata_item": "Q627313"
+  },
+  "urj-prm": {
+    "canonicalName": "Permic",
+    "family": "urj",
+    "wikidata_item": "Q161493"
+  },
+  "urj-ugr": {
+    "canonicalName": "Ugric",
+    "family": "urj",
+    "wikidata_item": "Q156631"
+  },
+  "zhx-gba": {
+    "canonicalName": "Greater Bai",
+    "aliases": "{\"Macro-Bai\""
+  },
+  "zhx-min": {
+    "canonicalName": "Min",
+    "protoLanguage": "zhx-min-pro",
+    "family": "zhx"
+  },
+  "zhx-min-hai": {
+    "canonicalName": "Coastal Min",
+    "family": "zhx-min"
+  },
+  "zhx-min-shn": {
+    "canonicalName": "Inland Min",
+    "family": "zhx-min"
+  },
+  "zlw-lch": {
+    "canonicalName": "Lechitic",
+    "aliases": "{\"Lekhitic\""
+  }
+}
