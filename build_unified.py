@@ -1,34 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-#
-# GLFM Project
-# Copyright (c) 2026 Tuomas Lähteenmäki
-#
-# https://codeberg.org/lahtis/GLFM
-#
-# Licensed under the MIT License.
-# You may obtain a copy of the License at:
-# https://opensource.org/licenses/MIT
-#
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-#
-# The above copyright notice and this permission notice shall be included in all
-# copies or substantial portions of the Software.
-#
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-# SOFTWARE.
-#
-
 import json
 from pathlib import Path
 from typing import Dict, Any
@@ -50,7 +19,6 @@ from logic.set_uralic_langs import set_uralic_langs
 
 from models.language import Language
 
-
 # ---------------------------------------------------------
 # OUTPUT-kansiot
 # ---------------------------------------------------------
@@ -63,7 +31,6 @@ for folder in SUBFOLDERS:
     (OUTPUT_ROOT / folder).mkdir(parents=True, exist_ok=True)
 
 OUTPUT = OUTPUT_ROOT / "unified" / "unified_languages.json"
-
 
 # ---------------------------------------------------------
 # Unified-rakenteen rakentaminen
@@ -79,6 +46,10 @@ def build_unified() -> Dict[str, Any]:
     uralic_set = load_uralic_languages()
     glottolog = load_glottolog()
     pos_stats = load_pos_stats()
+
+    # --- Check uralic_languages.json ---
+    if not uralic_set:
+        print("Warning: uralic.json missing or empty. All languages will have uralicNLP=False")
 
     # Aseta uralilaiset kielet logic-moduulille
     set_uralic_langs(uralic_set)
@@ -119,6 +90,8 @@ def build_unified() -> Dict[str, Any]:
         scripts = [s for s in w_written.get("scripts", []) if s and s.upper() != "UNKNOWN"]
         if not scripts and script:
             scripts = [script]
+        elif not scripts:
+            scripts = []
 
         # Luo Language-olio
         lang_obj = Language(
@@ -147,7 +120,6 @@ def build_unified() -> Dict[str, Any]:
 
     return unified
 
-
 # ---------------------------------------------------------
 # Tallennus
 # ---------------------------------------------------------
@@ -159,7 +131,6 @@ def main() -> None:
         json.dump(unified, f, ensure_ascii=False, indent=2)
 
     print(f"Unified language database written to: {OUTPUT}")
-
 
 if __name__ == "__main__":
     main()
