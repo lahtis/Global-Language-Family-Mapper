@@ -41297,7 +41297,7 @@
     "default_region": "001",
     "bcp47": "ekk-Latn",
     "fallback": "ekk",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -42125,7 +42125,7 @@
     "default_region": "RU",
     "bcp47": "enf-Latn-RU",
     "fallback": "enf",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -42171,7 +42171,7 @@
     "default_region": "RU",
     "bcp47": "enh-Latn-RU",
     "fallback": "enh",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -44310,7 +44310,7 @@
     "default_region": "FI",
     "bcp47": "fi-Latn-FI",
     "fallback": "fin",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -44379,7 +44379,7 @@
     "default_region": "SE",
     "bcp47": "fit-Latn-SE",
     "fallback": "fit",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -44448,7 +44448,7 @@
     "default_region": "NO",
     "bcp47": "fkv-Latn-NO",
     "fallback": "fkv",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -57489,7 +57489,7 @@
     "default_region": "HU",
     "bcp47": "hu-Latn-HU",
     "fallback": "hun",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -61974,7 +61974,7 @@
     "default_region": "RU",
     "bcp47": "izh-Latn-RU",
     "fallback": "izh",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -66390,7 +66390,7 @@
     "default_region": "RU",
     "bcp47": "kca-Latn-RU",
     "fallback": "kca",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -73428,7 +73428,7 @@
     "default_region": "RU",
     "bcp47": "koi-Latn-RU",
     "fallback": "koi",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -74256,7 +74256,7 @@
     "default_region": "001",
     "bcp47": "kpv-Latn",
     "fallback": "kpv",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -75199,7 +75199,7 @@
     "default_region": "RU",
     "bcp47": "krl-Latn-RU",
     "fallback": "krl",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -83341,7 +83341,7 @@
     "default_region": "LV",
     "bcp47": "liv-Latn-LV",
     "fallback": "liv",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -86998,7 +86998,7 @@
     "default_region": "RU",
     "bcp47": "lud-Latn-RU",
     "fallback": "lud",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -89873,7 +89873,7 @@
     "default_region": "RU",
     "bcp47": "mdf-Latn-RU",
     "fallback": "mdf",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -92426,7 +92426,7 @@
     "default_region": "001",
     "bcp47": "mhr-Latn",
     "fallback": "mhr",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -95830,7 +95830,7 @@
     "default_region": "RU",
     "bcp47": "mns-Latn-RU",
     "fallback": "mns",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -97877,7 +97877,7 @@
     "default_region": "RU",
     "bcp47": "mrj-Latn-RU",
     "fallback": "mrj",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -99119,7 +99119,7 @@
     "default_region": "RU",
     "bcp47": "mtm-Latn-RU",
     "fallback": "mtm",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -101948,7 +101948,7 @@
     "default_region": "RU",
     "bcp47": "myv-Latn-RU",
     "fallback": "myv",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -106870,7 +106870,7 @@
     "default_region": "RU",
     "bcp47": "nio-Latn-RU",
     "fallback": "nio",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -115610,7 +115610,7 @@
     "default_region": "RU",
     "bcp47": "olo-Latn-RU",
     "fallback": "olo",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -130330,7 +130330,7 @@
     "default_region": "001",
     "bcp47": "rts-Latn",
     "fallback": "rts",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -133320,7 +133320,7 @@
     "default_region": "RU",
     "bcp47": "sel-Latn-RU",
     "fallback": "sel",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -134769,7 +134769,7 @@
     "default_region": "RU",
     "bcp47": "sia-Latn-RU",
     "fallback": "sia",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -135367,7 +135367,7 @@
     "default_region": "RU",
     "bcp47": "sjd-Latn-RU",
     "fallback": "sjd",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -135390,7 +135390,7 @@
     "default_region": "SE",
     "bcp47": "sje-Latn-SE",
     "fallback": "sje",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -135436,7 +135436,7 @@
     "default_region": "001",
     "bcp47": "sjk-Latn",
     "fallback": "sjk",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -135620,7 +135620,7 @@
     "default_region": "RU",
     "bcp47": "sjt-Latn-RU",
     "fallback": "sjt",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -135643,7 +135643,7 @@
     "default_region": "SE",
     "bcp47": "sju-Latn-SE",
     "fallback": "sju",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -136747,7 +136747,7 @@
     "default_region": "SE",
     "bcp47": "sma-Latn-SE",
     "fallback": "sma",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -136816,7 +136816,7 @@
     "default_region": "NO",
     "bcp47": "se-Latn-NO",
     "fallback": "sme",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -136908,7 +136908,7 @@
     "default_region": "SE",
     "bcp47": "smj-Latn-SE",
     "fallback": "smj",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -137000,7 +137000,7 @@
     "default_region": "FI",
     "bcp47": "smn-Latn-FI",
     "fallback": "smn",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -137115,7 +137115,7 @@
     "default_region": "FI",
     "bcp47": "sms-Latn-FI",
     "fallback": "sms",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -155239,7 +155239,7 @@
     "default_region": "RU",
     "bcp47": "udm-Latn-RU",
     "fallback": "udm",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -158551,7 +158551,7 @@
     "default_region": "RU",
     "bcp47": "vep-Latn-RU",
     "fallback": "vep",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -159839,7 +159839,7 @@
     "default_region": "RU",
     "bcp47": "vot-Latn-RU",
     "fallback": "vot",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -159885,7 +159885,7 @@
     "default_region": "EE",
     "bcp47": "vro-Latn-EE",
     "fallback": "vro",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -165750,7 +165750,7 @@
     "default_region": "RU",
     "bcp47": "xas-Latn-RU",
     "fallback": "xas",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -176560,7 +176560,7 @@
     "default_region": "RU",
     "bcp47": "yrk-Latn-RU",
     "fallback": "yrk",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
@@ -179780,7 +179780,7 @@
     "default_region": "001",
     "bcp47": "zkv-Latn",
     "fallback": "zkv",
-    "uralicNLP": false,
+    "uralicNLP": true,
     "written": false,
     "written_scripts": [
       "Latn"
