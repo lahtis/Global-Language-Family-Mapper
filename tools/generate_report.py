@@ -7,12 +7,11 @@
 # https://codeberg.org/lahtis/GLFM
 #
 # Licensed under the MIT License.
-# You may obtain a copy of the License at:
 # https://opensource.org/licenses/MIT
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
+# with the Software without restriction, including without limitation the rights
 # to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 # copies of the Software, and to permit persons to whom the Software is
 # furnished to do so, subject to the following conditions:
@@ -43,6 +42,7 @@ OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 
 UNIFIED = PROJECT_ROOT / "output" / "unified" / "unified_languages.json"
 VALIDATION_ERRORS_JSON = OUTPUT_ROOT / "validation_errors.json"
+URALIC_FILE = PROJECT_ROOT / "data" / "uralic_languages.json"
 
 # Validointiskriptit
 VALIDATE_BCP47 = TOOLS / "validate_bcp47.py"
@@ -62,6 +62,12 @@ def run_validation(script: Path):
 
 def generate_report():
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+
+    # --- Tarkista uralic.json ---
+    if not URALIC_FILE.exists() or URALIC_FILE.stat().st_size == 0:
+        uralic_warning = "Warning: uralic_languages.json missing or empty. All languages will have uralicNLP=False"
+    else:
+        uralic_warning = None
 
     # --- Aja validoinnit ---
     bcp47_out, bcp47_err = run_validation(VALIDATE_BCP47)
@@ -95,6 +101,12 @@ def generate_report():
 - BCP‑47 validation: {"OK" if not errors_json['bcp47'] else "Errors found"}
 - Fallback validation: {"OK" if not errors_json['fallbacks'] else "Errors found"}
 - ISO validation: {"OK" if not errors_json['iso'] else "Errors found"}
+"""
+
+    if uralic_warning:
+        md += f"\n**{uralic_warning}**\n"
+
+    md += f"""
 
 ---
 
@@ -168,7 +180,12 @@ th, td {{ border: 1px solid #ccc; padding: 5px; }}
   <li>Fallback validation: <span class="{'ok' if not errors_json['fallbacks'] else 'err'}">{'OK' if not errors_json['fallbacks'] else 'Errors found'}</span></li>
   <li>ISO validation: <span class="{'ok' if not errors_json['iso'] else 'err'}">{'OK' if not errors_json['iso'] else 'Errors found'}</span></li>
 </ul>
+"""
 
+    if uralic_warning:
+        html_content += f"<p style='color:red; font-weight:bold;'>{uralic_warning}</p>\n"
+
+    html_content += f"""
 <h2>BCP‑47 Validation Output</h2>
 <pre>{html.escape(bcp47_out or "No output")}{("\n" + html.escape(bcp47_err)) if bcp47_err else ""}</pre>
 
