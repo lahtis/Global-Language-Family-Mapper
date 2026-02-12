@@ -1,8 +1,7 @@
-# Global Language Family Mapper (GLFM)
+# Global Language Family Mapper (GLFM) - v.1.0.0
 
 A modular, JSON-based language database and validation pipeline for over **7,900 languages** (ISO 639-3), including Uralic/Finno-Ugric languages. Designed for **RSS feeds, localization, and NLP workflows**.
 
-v.1.0.0
 ---
 
 ## Features
