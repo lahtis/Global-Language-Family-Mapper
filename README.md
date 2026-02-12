@@ -1,6 +1,15 @@
-# Global Language Family Mapper (GLFM) - v.1.0.0
+# Global Language Family Mapper (GLFM)
 
 A modular, JSON-based language database and validation pipeline for over **7,900 languages** (ISO 639-3), including Uralic/Finno-Ugric languages. Designed for **RSS feeds, localization, and NLP workflows**.
+
+**Author:** Tuomas Lähteenmäki  
+**License:** MIT  
+**Version:** 1.0.0
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-Cross--platform-lightgrey)
 
 ---
 
