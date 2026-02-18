@@ -30,9 +30,8 @@ jobs:
         id: hash
         run: |
           set -euo pipefail
-          # Check if the file exists before hashing
-          sha256sum output/unified/unified_languages.json | base64 -w0 > digest.txt
-          echo "digests=$(cat digest.txt)" >> "${GITHUB_OUTPUT}"
+          # Direct hash calculation into output
+          echo "digests=$(sha256sum output/unified/unified_languages.json | base64 -w0)" >> "${GITHUB_OUTPUT}"
 
   provenance:
     needs: [build]
