@@ -30,7 +30,9 @@ jobs:
         id: hash
         run: |
           set -euo pipefail
-          echo "digests=$(sha256sum output/unified/unified_languages.json | base64 -w0)" >> "${GITHUB_OUTPUT}"
+          # Check if the file exists before hashing
+          sha256sum output/unified/unified_languages.json | base64 -w0 > digest.txt
+          echo "digests=$(cat digest.txt)" >> "${GITHUB_OUTPUT}"
 
   provenance:
     needs: [build]
@@ -38,7 +40,6 @@ jobs:
       actions: read
       id-token: write
       contents: write
-    # UPDATED: Changed from v1.9.0 to v2.0.0 to fix the deprecation error
     uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v2.0.0
     with:
       base64-subjects: "${{ needs.build.outputs.digests }}"
